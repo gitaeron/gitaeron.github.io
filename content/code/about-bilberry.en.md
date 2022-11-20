@@ -3,7 +3,6 @@ title: "About Bilberry"
 date: 2021-11-01T13:18:45+01:00
 excludeFromTopNav: false
 showDate: true
-weight: 4
 ---
 Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
 
