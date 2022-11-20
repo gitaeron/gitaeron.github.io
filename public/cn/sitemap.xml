@@ -2,302 +2,302 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Aeron-Atlantis.github.io/cn/page/readme/</loc>
-    <lastmod>2022-11-19T21:11:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Aeron-Atlantis.github.io/page/readme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/page/readme/"
-                />
-  </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/page/github/</loc>
+    <loc>https://gitaeron.github.io/cn/page/home/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/page/github/"
+                href="https://gitaeron.github.io/page/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/page/github/"
+                href="https://gitaeron.github.io/cn/page/home/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/page/home/</loc>
+    <loc>https://gitaeron.github.io/cn/page/readme/</loc>
+    <lastmod>2022-11-19T21:11:55+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/page/readme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/page/readme/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/page/github/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/page/home/"
+                href="https://gitaeron.github.io/page/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/page/home/"
+                href="https://gitaeron.github.io/cn/page/github/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/code/about-bilberry/</loc>
+    <loc>https://gitaeron.github.io/cn/code/about-bilberry/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/code/about-bilberry/"
+                href="https://gitaeron.github.io/code/about-bilberry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/code/about-bilberry/"
+                href="https://gitaeron.github.io/cn/code/about-bilberry/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/page/</loc>
+    <loc>https://gitaeron.github.io/cn/page/</loc>
     <lastmod>2022-11-19T21:11:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/page/"
+                href="https://gitaeron.github.io/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/page/"
+                href="https://gitaeron.github.io/cn/page/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/</loc>
+    <loc>https://gitaeron.github.io/cn/</loc>
     <lastmod>2022-11-19T21:11:55+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/"
+                href="https://gitaeron.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/"
+                href="https://gitaeron.github.io/cn/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/code/</loc>
+    <loc>https://gitaeron.github.io/cn/code/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/code/"
+                href="https://gitaeron.github.io/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/code/"
+                href="https://gitaeron.github.io/cn/code/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/author/</loc>
+    <loc>https://gitaeron.github.io/cn/author/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/author/"
+                href="https://gitaeron.github.io/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/author/"
+                href="https://gitaeron.github.io/cn/author/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/categories/</loc>
+    <loc>https://gitaeron.github.io/cn/categories/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/categories/"
+                href="https://gitaeron.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/categories/"
+                href="https://gitaeron.github.io/cn/categories/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/author/edward-snowden/</loc>
+    <loc>https://gitaeron.github.io/cn/author/edward-snowden/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/author/edward-snowden/"
+                href="https://gitaeron.github.io/author/edward-snowden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/author/edward-snowden/"
+                href="https://gitaeron.github.io/cn/author/edward-snowden/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/quote/edward-snowden-privacy/</loc>
+    <loc>https://gitaeron.github.io/cn/quote/edward-snowden-privacy/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/quote/edward-snowden-privacy/"
+                href="https://gitaeron.github.io/quote/edward-snowden-privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/quote/edward-snowden-privacy/"
+                href="https://gitaeron.github.io/cn/quote/edward-snowden-privacy/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/tags/free-speech/</loc>
+    <loc>https://gitaeron.github.io/cn/tags/free-speech/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/tags/free-speech/"
+                href="https://gitaeron.github.io/tags/free-speech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/tags/free-speech/"
+                href="https://gitaeron.github.io/cn/tags/free-speech/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/categories/privacy/</loc>
+    <loc>https://gitaeron.github.io/cn/categories/privacy/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/categories/privacy/"
+                href="https://gitaeron.github.io/categories/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/categories/privacy/"
+                href="https://gitaeron.github.io/cn/categories/privacy/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/quote/</loc>
+    <loc>https://gitaeron.github.io/cn/quote/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/quote/"
+                href="https://gitaeron.github.io/quote/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/quote/"
+                href="https://gitaeron.github.io/cn/quote/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/categories/society/</loc>
+    <loc>https://gitaeron.github.io/cn/categories/society/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/categories/society/"
+                href="https://gitaeron.github.io/categories/society/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/categories/society/"
+                href="https://gitaeron.github.io/cn/categories/society/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/tags/</loc>
+    <loc>https://gitaeron.github.io/cn/tags/</loc>
     <lastmod>2021-11-01T13:01:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/tags/"
+                href="https://gitaeron.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/tags/"
+                href="https://gitaeron.github.io/cn/tags/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/tags/bilberry-theme/</loc>
+    <loc>https://gitaeron.github.io/cn/tags/bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/tags/bilberry-theme/"
+                href="https://gitaeron.github.io/tags/bilberry-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/tags/bilberry-theme/"
+                href="https://gitaeron.github.io/cn/tags/bilberry-theme/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/categories/code/</loc>
+    <loc>https://gitaeron.github.io/cn/categories/code/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/categories/code/"
+                href="https://gitaeron.github.io/categories/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/categories/code/"
+                href="https://gitaeron.github.io/cn/categories/code/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/tags/hugo/</loc>
+    <loc>https://gitaeron.github.io/cn/tags/hugo/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/tags/hugo/"
+                href="https://gitaeron.github.io/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/tags/hugo/"
+                href="https://gitaeron.github.io/cn/tags/hugo/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/code/installing-bilberry-theme/</loc>
+    <loc>https://gitaeron.github.io/cn/code/installing-bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/code/installing-bilberry-theme/"
+                href="https://gitaeron.github.io/code/installing-bilberry-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/code/installing-bilberry-theme/"
+                href="https://gitaeron.github.io/cn/code/installing-bilberry-theme/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/categories/tutorials/</loc>
+    <loc>https://gitaeron.github.io/cn/categories/tutorials/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/categories/tutorials/"
+                href="https://gitaeron.github.io/categories/tutorials/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/categories/tutorials/"
+                href="https://gitaeron.github.io/cn/categories/tutorials/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</loc>
+    <loc>https://gitaeron.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/"
+                href="https://gitaeron.github.io/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/"
+                href="https://gitaeron.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/"
                 />
   </url><url>
-    <loc>https://Aeron-Atlantis.github.io/cn/series/</loc>
+    <loc>https://gitaeron.github.io/cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Aeron-Atlantis.github.io/series/"
+                href="https://gitaeron.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://Aeron-Atlantis.github.io/cn/series/"
+                href="https://gitaeron.github.io/cn/series/"
                 />
   </url>
 </urlset>

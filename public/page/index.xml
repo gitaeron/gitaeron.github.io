@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Aeron - Atlantis</title>
-    <link>https://Aeron-Atlantis.github.io/page/</link>
+    <link>https://gitaeron.github.io/page/</link>
     <description>Recent content in Pages on Aeron - Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Nov 2022 21:11:55 +0800</lastBuildDate><atom:link href="https://Aeron-Atlantis.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 21:11:55 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://gitaeron.github.io/page/home/</link>
+      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
+      
+      <guid>https://gitaeron.github.io/page/home/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Read Me First</title>
-      <link>https://Aeron-Atlantis.github.io/page/readme/</link>
+      <link>https://gitaeron.github.io/page/readme/</link>
       <pubDate>Sat, 19 Nov 2022 21:11:55 +0800</pubDate>
       
-      <guid>https://Aeron-Atlantis.github.io/page/readme/</guid>
+      <guid>https://gitaeron.github.io/page/readme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://Aeron-Atlantis.github.io/page/github/</link>
+      <link>https://gitaeron.github.io/page/github/</link>
       <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
       
-      <guid>https://Aeron-Atlantis.github.io/page/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://Aeron-Atlantis.github.io/page/home/</link>
-      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
-      
-      <guid>https://Aeron-Atlantis.github.io/page/home/</guid>
+      <guid>https://gitaeron.github.io/page/github/</guid>
       <description></description>
     </item>
     
