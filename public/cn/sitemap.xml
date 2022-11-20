@@ -15,19 +15,6 @@
                 href="https://gitaeron.github.io/cn/page/home/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/page/readme/</loc>
-    <lastmod>2022-11-19T21:11:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/page/readme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/page/readme/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/cn/page/github/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
@@ -39,6 +26,19 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://gitaeron.github.io/cn/page/github/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/page/readme/</loc>
+    <lastmod>2022-11-19T21:11:55+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/page/readme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/page/readme/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/code/about-bilberry/</loc>
@@ -54,6 +54,96 @@
                 href="https://gitaeron.github.io/cn/code/about-bilberry/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/cn/author/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/author/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/categories/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/categories/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/education/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/quote/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/quote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/quote/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/society/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/categories/society/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/categories/society/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/categories/society/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/tags/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/author/%E8%83%A1%E9%80%82/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/quote/letter/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
     <loc>https://gitaeron.github.io/cn/page/</loc>
     <lastmod>2022-11-19T21:11:55+08:00</lastmod>
     <xhtml:link
@@ -67,19 +157,6 @@
                 href="https://gitaeron.github.io/cn/page/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/</loc>
-    <lastmod>2022-11-19T21:11:55+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/cn/code/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
     <xhtml:link
@@ -91,32 +168,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://gitaeron.github.io/cn/code/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/author/</loc>
-    <lastmod>2021-11-01T13:01:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/categories/</loc>
-    <lastmod>2021-11-01T13:01:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/categories/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/author/edward-snowden/</loc>
@@ -169,45 +220,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://gitaeron.github.io/cn/categories/privacy/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/quote/</loc>
-    <lastmod>2021-11-01T13:01:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/quote/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/categories/society/</loc>
-    <lastmod>2021-11-01T13:01:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/categories/society/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/categories/society/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/tags/</loc>
-    <lastmod>2021-11-01T13:01:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/tags/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/tags/bilberry-theme/</loc>
