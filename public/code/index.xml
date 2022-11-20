@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Aeron - Atlantis</title>
+    <link>https://Aeron-Atlantis.github.io/code/</link>
+    <description>Recent content in Codes on Aeron - Atlantis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 13:18:45 +0100</lastBuildDate><atom:link href="https://Aeron-Atlantis.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Bilberry</title>
+      <link>https://Aeron-Atlantis.github.io/code/about-bilberry/</link>
+      <pubDate>Mon, 01 Nov 2021 13:18:45 +0100</pubDate>
+      
+      <guid>https://Aeron-Atlantis.github.io/code/about-bilberry/</guid>
+      <description>Bilberry is a premium theme for the Hugo Static Website Builder.
+It is full of little nice features, such as:
+built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keyboard shortcut for the search (press the s key, type something and hit enter or esc) responsive design - optimized for desktop and mobile devices full internationalization (i18n) support (en, de, fr, ru, es out of the box!</description>
+    </item>
+    
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>https://Aeron-Atlantis.github.io/code/installing-bilberry-theme/</link>
+      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
+      
+      <guid>https://Aeron-Atlantis.github.io/code/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
+on the official &lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

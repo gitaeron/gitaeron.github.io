@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 澜冬雪</title>
+    <link>https://Aeron-Atlantis.github.io/cn/author/</link>
+    <description>Recent content in Author on 澜冬雪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 13:01:14 +0100</lastBuildDate><atom:link href="https://Aeron-Atlantis.github.io/cn/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edward Snowden</title>
+      <link>https://Aeron-Atlantis.github.io/cn/author/edward-snowden/</link>
+      <pubDate>Mon, 01 Nov 2021 13:01:14 +0100</pubDate>
+      
+      <guid>https://Aeron-Atlantis.github.io/cn/author/edward-snowden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>澜冬雪</title>
+      <link>https://Aeron-Atlantis.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</link>
+      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
+      
+      <guid>https://Aeron-Atlantis.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
