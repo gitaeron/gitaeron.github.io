@@ -5,6 +5,7 @@ date: 2022-11-20T23:58:00+08:00
 author: "胡适"
 categories: ['Society']
 tags: ['Education', 'Society']
+weight: 1
 ---
 
 #### 胡适写给儿子的信 :

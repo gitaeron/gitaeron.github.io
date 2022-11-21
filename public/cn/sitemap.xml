@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gitaeron.github.io/cn/quote/letter/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
     <loc>https://gitaeron.github.io/cn/author/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
     <xhtml:link
@@ -30,16 +33,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/cn/tags/education/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/tags/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/tags/education/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/cn/quote/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
@@ -56,16 +49,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/cn/tags/society/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/tags/society/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/tags/society/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/cn/categories/society/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
@@ -108,29 +91,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/cn/author/%E8%83%A1%E9%80%82/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/%E8%83%A1%E9%80%82/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/%E8%83%A1%E9%80%82/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/quote/letter/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/quote/letter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/quote/letter/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/cn/article/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
