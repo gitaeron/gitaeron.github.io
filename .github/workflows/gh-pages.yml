@@ -3,7 +3,7 @@ name: Update GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update_gh_pages:
@@ -19,7 +19,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo && > public/.nojekyll
+        run: hugo
 
       - name: Deploy
         if: success()
