@@ -2,7 +2,7 @@
 
 This is my personal Blog project, build with `hugo` , deploying static page via `github page` , 
 
-- branch `main` is the hugo project using `bilberry hugo theme`
+- branch `main` is the hugo project using [`bilberry hugo theme`](https://github.com/Lednerb/bilberry-hugo-theme) theme
 - branch `page` is the static webpage project file of `Github page`, starting from the root path `/`
 
 <br/>

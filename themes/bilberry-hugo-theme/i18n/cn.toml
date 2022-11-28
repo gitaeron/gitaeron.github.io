@@ -29,7 +29,7 @@ other = "较新的帖子"
 other = "continueReading"
 
 [otherLanguages]
-other = "otherLanguages"
+other = "other languages"
 
 [readingTime]
 other = "需要 {{.Count}} 分钟阅读"

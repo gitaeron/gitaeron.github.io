@@ -2,7 +2,7 @@
 
 这是我的个人博客项目, 使用 hugo 搭建, 通过 `GitHub page` 功能进行静态页面的部署.
 
-- main 分支是 `hugo` 的项目工程文件, 使用 `bilberry hugo theme` 主题
+- main 分支是 `hugo` 的项目工程文件, 使用 [`bilberry hugo theme`](https://github.com/Lednerb/bilberry-hugo-theme) 主题
 - page 分支是 `GitHub page` 的静态页面存放路径,从根路径 `/` 开始
 
 <br/>

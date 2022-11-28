@@ -3,7 +3,7 @@ title: "Kinda love(French version) - Olivier Dion"
 date: 2022-11-27T15:59:00+08:00
 
 categories: ['music']
-tags: ['音乐', 'Youtube Music']
+tags: ['music', 'Youtube Music']
 youtube: "QtdJQ_p4DaM"
 
 series: 'Music Recommendation'

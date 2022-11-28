@@ -132,7 +132,12 @@ disqusShortname = ""
 
     # How many categories should be displayed in the footer section?
     # Set to -1 to hide the 'Categories' column
-    amountCategoriesInFooter = 15
+    amountCategoriesInFooter = 10
+
+    # add tags in footers
+    # How many tags should be displayed in the footer section?
+    # Set to -1 to hide the 'tags' column
+    amountTagsInFooter = 10
 
     # show a language chooser in the footer
     showFooterLanguageChooser = true

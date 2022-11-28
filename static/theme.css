@@ -10832,7 +10832,7 @@ img.mfp-img
 	display: flex;
 	font-family: Comfortaa,sans-serif;
 	font-size: .9em;
-	justify-content: space-between;
+	width: fit-content;
 	padding: 4rem 0
 }
 
