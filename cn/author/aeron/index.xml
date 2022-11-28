@@ -5,7 +5,16 @@
     <link>https://gitaeron.github.io/cn/author/aeron/</link>
     <description>Recent content in Aeron on 澜氏冬雪的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/author/aeron/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 14:15:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/author/aeron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CET 4级写作</title>
+      <link>https://gitaeron.github.io/cn/article/learningenglish/2022-11-28/</link>
+      <pubDate>Mon, 28 Nov 2022 14:15:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/cn/article/learningenglish/2022-11-28/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
       <link>https://gitaeron.github.io/cn/article/hugo-server/</link>
