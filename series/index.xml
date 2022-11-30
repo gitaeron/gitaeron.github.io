@@ -5,13 +5,22 @@
     <link>https://gitaeron.github.io/series/</link>
     <description>Recent content in Series on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 23:24:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 04:58:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>witness of history</title>
-      <link>https://gitaeron.github.io/series/witness-of-history/</link>
+      <title>Technology Series</title>
+      <link>https://gitaeron.github.io/series/technology-series/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/series/technology-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Witness Of History Series</title>
+      <link>https://gitaeron.github.io/series/witness-of-history-series/</link>
       <pubDate>Sun, 27 Nov 2022 23:24:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/series/witness-of-history/</guid>
+      <guid>https://gitaeron.github.io/series/witness-of-history-series/</guid>
       <description></description>
     </item>
     
