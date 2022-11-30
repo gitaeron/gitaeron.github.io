@@ -6,7 +6,7 @@ author: "胡适"
 categories: ['社会', '教育']
 tags: ['教育', '社会']
 
-series: "Society"
+series: "社会"
 ---
 
 #### 胡适写给儿子的信 :

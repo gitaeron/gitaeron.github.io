@@ -6,6 +6,8 @@ author: "Aeron"
 readingTime: 5
 categories: ['技术']
 tags: ['hugo', 'issue', '经验']
+
+series: "技术系列"
 ---
 
 
@@ -36,41 +38,41 @@ tags: ['hugo', 'issue', '经验']
 - categories: ['tech']
 - tags: ['hugo', 'issue', 'experience']
 
-![1](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/1.png)
+![1](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/1.png)
 
 <br/>
 
 2. 当运行 `hugo server` 以后, 可以直接通过点击 `categories` 或 `tags` 跳转到相应页面.
 
-![2](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/2.png)
+![2](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/2.png)
 
 <br/>
 
 3. 当你在编辑器中更改文章的 `categories` 或 `tags` 之后
    
-![3](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/3.png)
+![3](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/3.png)
 
 <br/>
 
-![4](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/4.png)
+![4](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/4.png)
 
 <br/>
 
 4. 结果出现404
 
-![5](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/5.png)
+![5](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/5.png)
 
 <br/>
 
 5. 这种情况包括但不限于在 **运行 `hugo server` 时**, 对 `gategories` , `tags` , `author` etc.. 进行更改.
 
-![6](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/6.png)
+![6](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/6.png)
 
 <br/>
    
 6. 这种情况对于 **运行 `hugo server` 后** 新添加的文章同样有效.
 
-![7](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/7.png)
+![7](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/7.png)
 
 
 <br/>
@@ -85,7 +87,7 @@ tags: ['hugo', 'issue', '经验']
 
 然后运行 `hugo server`
 
-![8](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/8.png)
+![8](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/8.png)
 
 <br/>
 

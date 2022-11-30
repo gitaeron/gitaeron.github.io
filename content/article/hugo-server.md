@@ -6,6 +6,8 @@ author: "Aeron"
 readingTime: 5
 categories: ['tech']
 tags: ['hugo', 'issue', 'experience']
+
+series: "Technology Series"
 ---
 
 
@@ -34,41 +36,41 @@ For example:
 - categories: ['tech']
 - tags: ['hugo', 'issue', 'experience']
 
-![1](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/1.png)
+![1](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/1.png)
 
 <br/>
 
 2. After running `hugo server` , you can simply click `categories` or `tags` jump to corresponding page
 
-![2](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/2.png)
+![2](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/2.png)
 
 <br/>
 
 3. But after you changed `categories` or `tags` in editor
    
-![3](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/3.png)
+![3](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/3.png)
 
 <br/>
 
-![4](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/4.png)
+![4](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/4.png)
 
 <br/>
 
 4. Turns out with 404
 
-![5](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/5.png)
+![5](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/5.png)
 
 <br/>
 
 5. When you're running `hugo server` , this situation includes but is not limited to `categories` or `tags` or `author` etc 
 
-![6](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/6.png)
+![6](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/6.png)
 
 <br/>
    
 6. It also works for adding new one after running `hugo server`
 
-![7](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/7.png)
+![7](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/7.png)
 
 
 <br/>
@@ -83,7 +85,7 @@ For example:
 
 **Then running `hugo server`**
 
-![8](https://raw.githubusercontent.com/gitaeron/gitimg/main/tech/hugo-server/8.png)
+![8](https://raw.githubusercontent.com/gitaeron/gitimg/main/article/hugo-server/8.png)
 
 <br/>
 

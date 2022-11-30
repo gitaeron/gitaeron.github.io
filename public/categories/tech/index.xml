@@ -5,7 +5,19 @@
     <link>https://gitaeron.github.io/categories/tech/</link>
     <description>Recent content in tech on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 04:58:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe.</title>
+      <link>https://gitaeron.github.io/article/multi-lan-series-issue/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/multi-lan-series-issue/</guid>
+      <description>&lt;h1 id=&#34;first-of-all&#34;&gt;First of all&lt;/h1&gt;
+&lt;p&gt;Before I create a new issue or make a pull request with my code, I just want  to discuss this issue first to make sure that I wasn&amp;rsquo;t misunderstanding origin code.&lt;/p&gt;
+&lt;p&gt;Cause I&amp;rsquo;m not a front-end or back-end developer, and I&amp;rsquo;m a new in IT : (&lt;/p&gt;
+&lt;p&gt;So I started a discuss in this neighborhood : )&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Previews problem while running hugo server</title>
       <link>https://gitaeron.github.io/article/hugo-server/</link>
