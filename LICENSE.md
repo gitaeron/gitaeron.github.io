@@ -74,8 +74,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 The following content is provided under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-- proto files from gitaeron.github.io/static &emsp; MIT License
-- proto files from gitaeron.github.io/content &emsp; MIT License
+- proto files from gitaeron.github.io/static &emsp; CC-BY-NC
+- proto files from gitaeron.github.io/content &emsp; CC-BY-NC
 
 Special statement about License CC-BY-NC :
 
