@@ -30,5 +30,15 @@
 &lt;h1 id=&#34;multiple-pictures-contained&#34;&gt;Multiple pictures contained&lt;/h1&gt;</description>
     </item>
     
+    <item>
+      <title>Google.com</title>
+      <link>https://gitaeron.github.io/link/example-google/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://gitaeron.github.io/link/example-google/</guid>
+      <description>A search engine.
+A example of post type link.</description>
+    </item>
+    
   </channel>
 </rss>
