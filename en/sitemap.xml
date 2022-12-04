@@ -337,21 +337,21 @@
                 href="https://gitaeron.github.io/page/tags/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/moment/11-26-2022/</loc>
+    <loc>https://gitaeron.github.io/categories/moment/</loc>
+    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/moment/moment-2022-11-26/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://gitaeron.github.io/cn/moment/11-26-2022/"
+                href="https://gitaeron.github.io/cn/moment/moment-2022-11-26/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/moment/11-26-2022/"
+                href="https://gitaeron.github.io/moment/moment-2022-11-26/"
                 />
-  </url><url>
-    <loc>https://gitaeron.github.io/categories/moment/</loc>
-    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/moment/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
@@ -423,6 +423,35 @@
                 href="https://gitaeron.github.io/author/%E8%83%A1%E9%80%82/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/link/example-google/</loc>
+    <lastmod>2021-11-01T13:05:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/link/example-google/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/link/example-google/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/link/</loc>
+    <lastmod>2021-11-01T13:05:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/link/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/tags/search-engine/</loc>
+    <lastmod>2021-11-01T13:05:27+01:00</lastmod>
+  </url><url>
     <loc>https://gitaeron.github.io/tags/bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
@@ -467,16 +496,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/author/edward-snowden/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/edward-snowden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/edward-snowden/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/quote/edward-snowden-privacy/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>

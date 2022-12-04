@@ -20,5 +20,15 @@
 &lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
     </item>
     
+    <item>
+      <title>Google.com</title>
+      <link>https://gitaeron.github.io/cn/link/example-google/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://gitaeron.github.io/cn/link/example-google/</guid>
+      <description>一个搜索引擎.
+一个帖子类型为 link 的样例.</description>
+    </item>
+    
   </channel>
 </rss>
