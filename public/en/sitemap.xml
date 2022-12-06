@@ -169,6 +169,16 @@
   </url><url>
     <loc>https://gitaeron.github.io/article/multi-lan-series-issue/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/article/multi-lan-series-issue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/article/multi-lan-series-issue/"
+                />
   </url><url>
     <loc>https://gitaeron.github.io/article/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
@@ -215,8 +225,18 @@
     <loc>https://gitaeron.github.io/categories/tech/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/series/technology-series/</loc>
+    <loc>https://gitaeron.github.io/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/"
+                />
   </url><url>
     <loc>https://gitaeron.github.io/article/witnessofhistory/r2022-11-24/</loc>
     <lastmod>2022-11-27T23:24:00+08:00</lastmod>
@@ -296,6 +316,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gitaeron.github.io/article/hugo-server/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/series/technology-series/</loc>
+    <lastmod>2022-11-27T16:44:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/series/technology-series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/series/technology-series/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/video/kinda-love/</loc>
