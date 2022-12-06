@@ -5,7 +5,26 @@
     <link>https://gitaeron.github.io/cn/tags/%E7%BB%8F%E9%AA%8C/</link>
     <description>Recent content in 经验 on 澜氏冬雪的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/tags/%E7%BB%8F%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 17:08:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/tags/%E7%BB%8F%E9%AA%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</title>
+      <link>https://gitaeron.github.io/cn/article/multi-lan-series-issue/</link>
+      <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/cn/article/multi-lan-series-issue/</guid>
+      <description>&lt;p&gt;已在该版本 &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0 中被修复.&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#首先&#34;&gt;首先&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#环境&#34;&gt;环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#发生了什么-&#34;&gt;发生了什么 ?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#未预期行为&#34;&gt;未预期行为&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#结论&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
       <link>https://gitaeron.github.io/cn/article/hugo-server/</link>

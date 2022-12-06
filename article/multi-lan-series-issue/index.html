@@ -15,14 +15,14 @@
     <title>
         
            
-               An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe. &vert; Aeron&#39;s Tiny Blog.
+               An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed &vert; Aeron&#39;s Tiny Blog.
            
         
     </title>
-    <meta itemprop="name" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe.">
-    <meta itemprop="description" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe. - My Tiny Blog.">
-    <meta property="og:title" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe.">
-    <meta property="og:description" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe. - My Tiny Blog.">
+    <meta itemprop="name" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed">
+    <meta itemprop="description" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed - My Tiny Blog.">
+    <meta property="og:title" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed">
+    <meta property="og:description" content="An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed - My Tiny Blog.">
     <meta property="og:image" content="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?size=200">
     <meta property="og:url" content="https://gitaeron.github.io/article/multi-lan-series-issue/">
     <meta property="og:site_name" content="Aeron&#39;s Tiny Blog.">
@@ -157,7 +157,7 @@
     <div class="content">
     <h1 class="article-title">
         <a href="https://gitaeron.github.io/article/multi-lan-series-issue/">
-            An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe.
+            An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed
         </a>
     </h1>
 
@@ -198,12 +198,24 @@
     
         
 
-        <h1 id="first-of-all">First of all</h1>
+        <p>Now It&rsquo;s fixed at <code>bilberry-hugo-theme</code> @v3.15.0</p>
+<hr>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#first-of-all">First of all</a></li>
+    <li><a href="#environment">Environment</a></li>
+    <li><a href="#what-happened-">What happened ?</a></li>
+    <li><a href="#unexpected-behavior">Unexpected behavior</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+<hr>
+<h2 id="first-of-all">First of all</h2>
 <p>Before I create a new issue or make a pull request with my code, I just want  to discuss this issue first to make sure that I wasn&rsquo;t misunderstanding origin code.</p>
 <p>Cause I&rsquo;m not a front-end or back-end developer, and I&rsquo;m a new in IT : (</p>
 <p>So I started a discuss in this neighborhood : )</p>
 <hr>
-<h1 id="environment">Environment</h1>
+<h2 id="environment">Environment</h2>
 <ul>
 <li>
 <p>Windows 10, - latest hugo</p>
@@ -229,7 +241,7 @@
 <p>And the content below is the process of how I fix that.</p>
 <p>I&rsquo;ll make a pull request after it could be a issue and it&rsquo;s a properly way to fix it.</p>
 <hr>
-<h1 id="what-happened-">What happened ?</h1>
+<h2 id="what-happened-">What happened ?</h2>
 <p>Issue founded in languages which are not default.</p>
 <p>If there&rsquo;s Multi Language, the URL of <code>series</code> is like this:</p>
 <ul>
@@ -247,9 +259,11 @@
 </li>
 </ul>
 <p>But the fact is like this, it will jump to 404 page because URL Error:</p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/2.png" alt="2"></p>
 <!-- raw HTML omitted -->
 <p>So I searched the project and located in <code>/bilberry-hugo-theme/layouts/_default/series.terms.html</code></p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/3.png" alt="3"></p>
 <!-- raw HTML omitted -->
 <p>That&rsquo;s the reason why the URL is wrong!</p>
@@ -259,6 +273,7 @@ In this scene, is cn.</p>
 </blockquote>
 <p>So if we can just type the correct URL by self&hellip;&hellip;.</p>
 <p>That&rsquo;s impossible lol : )</p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/4.png" alt="4"></p>
 <!-- raw HTML omitted -->
 <p>In fact, I have no idea at first. It&rsquo;s a totally unknown area for me. I almost give up after couple days.</p>
@@ -306,31 +321,35 @@ In this scene, is cn.</p>
 </span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">div</span>&gt;
 </span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
 </span></span><span style="display:flex;"><span>{{ end }}
-</span></span></code></pre></div><h2 id="-tips-how-about-we-expand-the-width-">👈👆 Tips: How about we expand the width&hellip;. 👆👉</h2>
+</span></span></code></pre></div><p><strong>👈👆 Tips: How about we expand the width&hellip;. 👆👉</strong></p>
 <p>I assumed that this code is for single language user.</p>
 <p><code>{{ $series_path := (printf &quot;/series/%s&quot; (urlize $name)) }}</code></p>
 <p>However that&rsquo;s the most case. Maybe the author is coded by purpose, or based on some reason. I don&rsquo;t know, I&rsquo;m just a noob.</p>
 <blockquote>
-<p>For my perspective, I think it&rsquo;s more inclusive to do so.</p>
+<p>For my perspective, I think it&rsquo;s more inclusive to do so: {{ $series_path | relLangURL }}</p>
 </blockquote>
 <p>Anyway this is a experience, I wish it could helped no matter this can or can&rsquo;t be a <code>issue</code> or something, at lease people will searched it in general if they need it, my title is so long lol : )</p>
 <hr>
-<h1 id="unexpected-behavior">Unexpected behavior</h1>
+<h2 id="unexpected-behavior">Unexpected behavior</h2>
 <p>But this is not over.</p>
 <p>This <code>Unexpected behavior</code> is not concerned about adding <code>relLangURL</code> in <code>series.terms.html</code> .</p>
-<p>The problem is about <code>series shorcode</code>(series list) didn&rsquo;t display / show / appear.</p>
+<p>The problem is about <code>series shortcode</code>(series list) didn&rsquo;t display / show / appear.</p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/5.png" alt="5"></p>
 <!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/6.png" alt="6"></p>
 <!-- raw HTML omitted -->
 <hr>
 <p>First, I located in <code>/bilberry-hugo-theme/layouts/shortcodes/series.html</code> .</p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/7.png" alt="7"></p>
 <!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/8.png" alt="8"></p>
+<!-- raw HTML omitted -->
 <p>The problem caused by specify language itself.</p>
 <p>It puts me in the same situation like above case. Took some days.</p>
 <p>Then I found <code>urlize</code> to solved this.</p>
+<!-- raw HTML omitted -->
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/9.png" alt="9"></p>
 <!-- raw HTML omitted -->
 <p><strong>About this code here</strong></p>
@@ -347,11 +366,11 @@ In this scene, is cn.</p>
 </span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">ul</span>&gt;
 </span></span><span style="display:flex;"><span>    {{ end }}
 </span></span><span style="display:flex;"><span>{{ end }}
-</span></span></code></pre></div><h2 id="-tips-how-about-we-expand-the-width--1">👈👆 Tips: How about we expand the width&hellip;. 👆👉</h2>
+</span></span></code></pre></div><p><strong>👈👆 Tips: How about we expand the width&hellip;. 👆👉</strong></p>
 <p>In fact the <code>$series_name</code> is already used <code>urlize</code> at the first line, that&rsquo;s the reason why they didn&rsquo;t equals.</p>
 <p>I also doesn&rsquo;t know why.</p>
 <hr>
-<h1 id="conclusion">Conclusion</h1>
+<h2 id="conclusion">Conclusion</h2>
 <p>Because I don&rsquo;t know why this,</p>
 <p>so I fixed maybe +_+  or it&rsquo;s just fixed in a possibly inappropriate way.</p>
     
@@ -380,6 +399,15 @@ In this scene, is cn.</p>
         </div>
     
 
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="https://gitaeron.github.io/cn/article/multi-lan-series-issue/">cn</a>
+            
+        </div>
+    </div>
     
 </div>
 
@@ -417,7 +445,7 @@ In this scene, is cn.</p>
                     </li>
                 
                     <li>
-                        <a href="https://gitaeron.github.io/article/multi-lan-series-issue/">An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe.</a>
+                        <a href="https://gitaeron.github.io/article/multi-lan-series-issue/">An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed</a>
                     </li>
                 
                     <li>
