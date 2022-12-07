@@ -156,16 +156,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/author/aeron/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/aeron/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/aeron/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/article/multi-lan-series-issue/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
@@ -206,8 +196,18 @@
                 href="https://gitaeron.github.io/author/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/tags/experience/</loc>
+    <loc>https://gitaeron.github.io/tags/bilberry-theme/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/tags/bilberry-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/tags/bilberry-theme/"
+                />
   </url><url>
     <loc>https://gitaeron.github.io/tags/issue/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
@@ -320,16 +320,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/series/technology-series/</loc>
     <lastmod>2022-11-27T16:44:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/series/technology-series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/series/technology-series/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/video/kinda-love/</loc>
     <lastmod>2022-11-27T15:59:00+08:00</lastmod>
@@ -383,9 +373,6 @@
                 href="https://gitaeron.github.io/page/tags/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/categories/moment/</loc>
-    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
-  </url><url>
     <loc>https://gitaeron.github.io/moment/moment-2022-11-26/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
     <xhtml:link
@@ -398,6 +385,9 @@
                 hreflang="en"
                 href="https://gitaeron.github.io/moment/moment-2022-11-26/"
                 />
+  </url><url>
+    <loc>https://gitaeron.github.io/categories/moment/</loc>
+    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/moment/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
@@ -498,19 +488,6 @@
     <loc>https://gitaeron.github.io/tags/search-engine/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/tags/bilberry-theme/</loc>
-    <lastmod>2021-11-01T09:31:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/tags/bilberry-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/tags/bilberry-theme/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/article/installing-bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
@@ -555,9 +532,6 @@
                 hreflang="en"
                 href="https://gitaeron.github.io/quote/edward-snowden-privacy/"
                 />
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/free-speech/</loc>
-    <lastmod>2021-11-01T13:01:14+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/tags/privacy/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>

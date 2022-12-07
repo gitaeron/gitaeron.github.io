@@ -1,14 +1,13 @@
 ---
-title: "An issue caused by using `series` with Multi Language and cause unexpected behavior - fixed maybe."
 title: "多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed"
 date: 2022-12-06T17:08:00+08:00
-author: "Aeron"
+author: "澜冬雪"
 
-readingtime: 15
+readingtime: 10
 categories: ["技术"]
-tags: ["issue", "经验"]
+tags: ["issue", "Bilberry Theme"]
 
-series: "Technology Series"
+series: "技术系列"
 ---
 
 已在该版本 `bilberry-hugo-theme` @v3.15.0 中被修复.

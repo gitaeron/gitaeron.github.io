@@ -1,11 +1,11 @@
 ---
 title: "运行 `hugo server` 期间出现的预览问题"
 date: 2022-11-27T16:44:00+08:00
-author: "Aeron"
+author: "澜冬雪"
 
 readingTime: 5
 categories: ['技术']
-tags: ['hugo', 'issue', '经验']
+tags: ['hugo', 'issue', 'Bilberry Theme']
 
 series: "技术系列"
 ---

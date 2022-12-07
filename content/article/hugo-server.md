@@ -5,7 +5,7 @@ author: "Aeron"
 
 readingTime: 5
 categories: ['tech']
-tags: ['hugo', 'issue', 'experience']
+tags: ['hugo', 'issue', 'Bilberry Theme']
 
 series: "Technology Series"
 ---

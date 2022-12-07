@@ -4,7 +4,7 @@ date: 2021-11-01T13:01:14+08:00
 
 author: "Edward Snowden"
 categories: ['Society']
-tags: ['Privacy','free speech']
+tags: ['Privacy']
 
 series: "Society"
 ---

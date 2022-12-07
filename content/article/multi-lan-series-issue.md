@@ -3,9 +3,9 @@ title: "An issue caused by using `series` with Multi Language and cause unexpect
 date: 2022-11-30T04:58:00+08:00
 author: "Aeron"
 
-readingtime: 15
+readingtime: 10
 categories: ["Tech"]
-tags: ["issue", "experience"]
+tags: ["issue", "Bilberry Theme"]
 
 series: "技术系列"
 ---
