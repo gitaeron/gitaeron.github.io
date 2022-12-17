@@ -260,13 +260,13 @@
 </li>
 </ul>
 <p>但实际上的 URL 却变成了这样, 并且因为 URL 的错误它会跳转到 404页面</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/2.png" alt="2"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>所以我搜索了整个工程项目,并定位到 <code>/bilberry-hugo-theme/layouts/_default/series.terms.html</code></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/3.png" alt="3"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>这是造成 URL 错误的原因!</p>
 <blockquote>
 <p>如你所见, 对于造成该错误的原因, 我推测这个错误应该适用于其他的非默认语言.
@@ -274,9 +274,9 @@
 </blockquote>
 <p><del>所以如果我们手动输入正确的 URL 就可以</del>&hellip;..</p>
 <p>这是不可能的 : )</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/4.png" alt="4"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>起初我是不知道应该怎么办的, 因为这对我来说是一个全新的领域, 在折腾了几天过后我几乎要放弃了.</p>
 <p>但是后来, 我在主题工程文件中研究了相似的 html 文件, 然后我发现了这个 =&gt; <code>relLangURL</code>.</p>
 <p><code>relLangURL</code> 被用来添加 /语言名/ 在你的URL 之前.</p>
@@ -337,23 +337,23 @@
 <p>这个 <code>Unexpected behavior</code> 与上面提及的在 <code>series.terms.html</code> 添加的 <code>relLangURL</code> 并不相关.</p>
 <p>这个问题是关于使用 <code>series shortchde</code> (series list) 没有显示内容.</p>
 <p>具体看下图:</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/5.png" alt="5"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/6.png" alt="6"></p>
-<!-- raw HTML omitted -->
+</br>
 <hr>
 <p>首先, 问题定位到 <code>/bilberry-hugo-theme/layouts/shortcodes/series.html</code> .</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/7.png" alt="7"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/8.png" alt="8"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>这个问题由特定的语言引起. (根据大佬的调查, 是由包含 non-ASCII 字符引起的, 实际上也确实是这个现象, 不过跟原代码中具体的实现有关)</p>
 <p>我找到了 <code>urlize</code> 来解决这个问题.</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/9.png" alt="9"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><strong>About this code here</strong></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ $series_name := .Get 0 | urlize }}
 </span></span><span style="display:flex;"><span>
@@ -442,7 +442,15 @@
                 
                 
                     <li>
+                        <a href="https://gitaeron.github.io/cn/video/wohvideo/v2022-12-17-5/">始终被隐藏的事实</a>
+                    </li>
+                
+                    <li>
                         <a href="https://gitaeron.github.io/cn/article/learningenglish/%E5%B9%B6%E5%88%97%E5%8F%A5-2022-12-07/">基础语法 -- 并列句</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/cn/article/learningenglish/%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5-2022-12-07/">基础语法 -- 复合句 - 从句</a>
                     </li>
                 
                     <li>
@@ -493,14 +501,6 @@
                         <a href="https://gitaeron.github.io/cn/moment/moment-2022-11-26/"></a>
                     </li>
                 
-                    <li>
-                        <a href="https://gitaeron.github.io/cn/article/installing-bilberry-theme/">Installing Bilberry Theme</a>
-                    </li>
-                
-                    <li>
-                        <a href="https://gitaeron.github.io/cn/archive/">所有文章</a>
-                    </li>
-                
             </ul>
         </div>
         
@@ -512,7 +512,7 @@
                 
                 <li>
                     <a href="/cn/categories/%E5%8E%86%E5%8F%B2%E8%A7%81%E8%AF%81%E8%80%85">历史见证者
-                        (5)</a>
+                        (6)</a>
                 </li>
                 
                 <li>
@@ -521,12 +521,12 @@
                 </li>
                 
                 <li>
-                    <a href="/cn/categories/%E7%A4%BE%E4%BC%9A">社会
-                        (2)</a>
+                    <a href="/cn/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0">英语学习
+                        (3)</a>
                 </li>
                 
                 <li>
-                    <a href="/cn/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0">英语学习
+                    <a href="/cn/categories/%E7%A4%BE%E4%BC%9A">社会
                         (2)</a>
                 </li>
                 
@@ -571,12 +571,27 @@
                 </li>
                 
                 <li>
+                    <a href="/cn/tags/%E7%96%AB%E6%83%85">疫情
+                        (5)</a>
+                </li>
+                
+                <li>
                     <a href="/cn/tags/%E9%80%9D%E8%80%85%E5%AE%89%E6%81%AF">逝者安息
                         (5)</a>
                 </li>
                 
                 <li>
                     <a href="/cn/tags/bilberry-theme">Bilberry theme
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/cn/tags/%E5%AD%A6%E4%B9%A0">学习
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/cn/tags/%E8%8B%B1%E8%AF%AD">英语
                         (3)</a>
                 </li>
                 
@@ -592,21 +607,6 @@
                 
                 <li>
                     <a href="/cn/tags/youtube-music">Youtube music
-                        (2)</a>
-                </li>
-                
-                <li>
-                    <a href="/cn/tags/%E5%AD%A6%E4%B9%A0">学习
-                        (2)</a>
-                </li>
-                
-                <li>
-                    <a href="/cn/tags/%E8%8B%B1%E8%AF%AD">英语
-                        (2)</a>
-                </li>
-                
-                <li>
-                    <a href="/cn/tags/%E9%9F%B3%E4%B9%90">音乐
                         (2)</a>
                 </li>
                 
