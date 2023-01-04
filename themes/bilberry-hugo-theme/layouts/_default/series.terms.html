@@ -11,7 +11,6 @@
                 <h3>{{ i18n "series" | default "series" }}</h3>
                 <hr>
                 <ul id="all-series">
-                    
                     {{ range $name, $taxonomy := .Site.Taxonomies.series }}
                         {{ $series_name := $name }}
                         {{ $series_path := (printf "/series/%s" (urlize $name)) }}
@@ -20,8 +19,7 @@
                         {{ if $series_page }}
                             {{ $series_name = $series_page.Title }}
                         {{ end }}
-                        
-                        <!--add relLangURL here-->
+
                         <li><a href="{{ $series_path | relLangURL }}">{{ $series_name }} ({{ $taxonomy.Count }})</a></li>
                     {{ end }}
                 </ul>

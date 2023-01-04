@@ -26,10 +26,10 @@ other = "较旧的帖子"
 other = "较新的帖子"
 
 [continueReading]
-other = "continueReading"
+other = "Continue Reading"
 
 [otherLanguages]
-other = "other languages"
+other = "Other Languages"
 
 [readingTime]
 other = "需要 {{.Count}} 分钟阅读"

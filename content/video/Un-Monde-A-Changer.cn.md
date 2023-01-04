@@ -6,6 +6,6 @@ categories: ['音乐']
 tags: ['音乐', 'Youtube Music']
 youtube: "31ER_1t0-TM"
 
-series: '音乐推荐'
+series: ['音乐推荐']
 ---
 

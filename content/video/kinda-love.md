@@ -6,7 +6,7 @@ categories: ['music']
 tags: ['music', 'Youtube Music']
 youtube: "QtdJQ_p4DaM"
 
-series: 'Music Recommendation'
+series: ['Music Recommendation']
 ---
 
 This songs have both English and French version. This audio is French version.

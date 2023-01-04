@@ -6,7 +6,7 @@ categories: ['Tutorials']
 tags: ['Hugo', 'Bilberry Theme']
 author: "Lednerb"
 
-series: "Technology Series"
+series:  ['Technology Series']
 ---
 You will find all information to setup this theme with your hugo site
 on the official <br> [Github Repository](https://github.com/Lednerb/bilberry-hugo-theme).

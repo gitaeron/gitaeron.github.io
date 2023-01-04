@@ -7,7 +7,7 @@ readingtime: 10
 categories: ["Tech"]
 tags: ["issue", "Bilberry Theme"]
 
-series: "技术系列"
+series:  ['Technology Series']
 ---
 
 Now It's fixed at `bilberry-hugo-theme` @v3.15.0

@@ -6,7 +6,7 @@ categories: ['音乐']
 tags: ['音乐', 'Youtube Music']
 youtube: "QtdJQ_p4DaM"
 
-series: '音乐推荐'
+series: ['音乐推荐']
 ---
 
 这首歌有 英语版 和 法语版, 现在这个音频是法语版.

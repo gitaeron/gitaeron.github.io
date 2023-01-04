@@ -7,7 +7,7 @@ readingTime: 5
 categories: ['技术']
 tags: ['hugo', 'issue', 'Bilberry Theme']
 
-series: "技术系列"
+series: ['技术系列']
 ---
 
 

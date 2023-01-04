@@ -7,7 +7,7 @@ readingTime: 5
 categories: ['tech']
 tags: ['hugo', 'issue', 'Bilberry Theme']
 
-series: "Technology Series"
+series: ['Technology Series']
 ---
 
 

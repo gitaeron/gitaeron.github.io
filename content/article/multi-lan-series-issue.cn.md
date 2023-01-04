@@ -7,7 +7,7 @@ readingtime: 10
 categories: ["技术"]
 tags: ["issue", "Bilberry Theme"]
 
-series: "技术系列"
+series: ['技术系列']
 ---
 
 已在该版本 `bilberry-hugo-theme` @v3.15.0 中被修复.

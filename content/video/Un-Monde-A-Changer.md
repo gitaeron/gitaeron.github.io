@@ -6,6 +6,6 @@ categories: ['music']
 tags: ['music', 'Youtube Music']
 youtube: "31ER_1t0-TM"
 
-series: 'Music Recommendation'
+series: ['Music Recommendation']
 ---
 

@@ -6,7 +6,7 @@ author: "胡适"
 categories: ['Society', 'Education']
 tags: ['Education', 'Society']
 
-series: "Society"
+series: ['Society']
 ---
 
 #### Hu Shi's letter to his son:
