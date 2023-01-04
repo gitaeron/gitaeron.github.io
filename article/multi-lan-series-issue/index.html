@@ -259,13 +259,13 @@
 </li>
 </ul>
 <p>But the fact is like this, it will jump to 404 page because URL Error:</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/2.png" alt="2"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>So I searched the project and located in <code>/bilberry-hugo-theme/layouts/_default/series.terms.html</code></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/3.png" alt="3"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>That&rsquo;s the reason why the URL is wrong!</p>
 <blockquote>
 <p>As you see, I suppose it&rsquo;s also effected on any languages which are not the default language.
@@ -273,9 +273,9 @@ In this scene, is cn.</p>
 </blockquote>
 <p>So if we can just type the correct URL by self&hellip;&hellip;.</p>
 <p>That&rsquo;s impossible lol : )</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/4.png" alt="4"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>In fact, I have no idea at first. It&rsquo;s a totally unknown area for me. I almost give up after couple days.</p>
 <p>But after I studied similar html inside bilberry theme, I found a thing named <code>relLangURL</code> .</p>
 <p><code>relLangURL</code> is used to add /language-name/  before your URL.</p>
@@ -334,24 +334,24 @@ In this scene, is cn.</p>
 <p>But this is not over.</p>
 <p>This <code>Unexpected behavior</code> is not concerned about adding <code>relLangURL</code> in <code>series.terms.html</code> .</p>
 <p>The problem is about <code>series shortcode</code>(series list) didn&rsquo;t display / show / appear.</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/5.png" alt="5"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/6.png" alt="6"></p>
-<!-- raw HTML omitted -->
+</br>
 <hr>
 <p>First, I located in <code>/bilberry-hugo-theme/layouts/shortcodes/series.html</code> .</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/7.png" alt="7"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/8.png" alt="8"></p>
-<!-- raw HTML omitted -->
+</br>
 <p>The problem caused by specify language itself.</p>
 <p>It puts me in the same situation like above case. Took some days.</p>
 <p>Then I found <code>urlize</code> to solved this.</p>
-<!-- raw HTML omitted -->
+</br>
 <p><img src="https://raw.githubusercontent.com/gitaeron/gitimg/main/article/multi-lan-series-issue/9.png" alt="9"></p>
-<!-- raw HTML omitted -->
+</br>
 <p><strong>About this code here</strong></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ $series_name := .Get 0 | urlize }}
 </span></span><span style="display:flex;"><span>
@@ -449,18 +449,6 @@ In this scene, is cn.</p>
                     </li>
                 
                     <li>
-                        <a href="https://gitaeron.github.io/video/wohvideo/v2022-11-24-2/">On November 24, 2022, the tragedy in Urumqi, the voice of the people - Video 2</a>
-                    </li>
-                
-                    <li>
-                        <a href="https://gitaeron.github.io/article/witnessofhistory/r2022-11-24/">On November 24, 2022, the tragedy in Urumqi, the voice of the people - Record 1</a>
-                    </li>
-                
-                    <li>
-                        <a href="https://gitaeron.github.io/video/wohvideo/v2022-11-24-1/">On November 24, 2022, the tragedy in Urumqi, the voice of the people - Video 1</a>
-                    </li>
-                
-                    <li>
                         <a href="https://gitaeron.github.io/article/hugo-server/">Previews problem while running hugo server</a>
                     </li>
                 
@@ -491,11 +479,6 @@ In this scene, is cn.</p>
                 
                 <li>
                     <a href="/categories/tech">Tech
-                        (3)</a>
-                </li>
-                
-                <li>
-                    <a href="/categories/witness-of-history">Witness of history
                         (3)</a>
                 </li>
                 
@@ -540,21 +523,6 @@ In this scene, is cn.</p>
                 </li>
                 
                 <li>
-                    <a href="/tags/rest-in-peace">Rest in peace
-                        (3)</a>
-                </li>
-                
-                <li>
-                    <a href="/tags/urumqi-middle-road-shanghai">Urumqi middle road shanghai
-                        (3)</a>
-                </li>
-                
-                <li>
-                    <a href="/tags/urumqi-xinjiang">Urumqi xinjiang
-                        (3)</a>
-                </li>
-                
-                <li>
                     <a href="/tags/hugo">Hugo
                         (2)</a>
                 </li>
@@ -581,6 +549,21 @@ In this scene, is cn.</p>
                 
                 <li>
                     <a href="/tags/privacy">Privacy
+                        (1)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/search-engine">Search engine
+                        (1)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/society">Society
+                        (1)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/thanatophobia">Thanatophobia
                         (1)</a>
                 </li>
                 

@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gitaeron.github.io/video/wohvideo/v2022-11-24-1/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/video/wohvideo/v2022-11-24-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/video/wohvideo/v2022-11-24-1/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/page/home/</loc>
     <lastmod>2022-11-25T14:26:00+08:00</lastmod>
     <xhtml:link
@@ -236,60 +223,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gitaeron.github.io/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/article/witnessofhistory/r2022-11-24/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/article/witnessofhistory/r2022-11-24/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/article/witnessofhistory/r2022-11-24/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/video/wohvideo/v2022-11-24-2/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/video/wohvideo/v2022-11-24-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/video/wohvideo/v2022-11-24-2/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/rest-in-peace/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/urumqi-middle-road-shanghai/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/urumqi-xinjiang/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/categories/witness-of-history/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/series/witness-of-history-series/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/author/woh/</loc>
-    <lastmod>2022-11-27T23:24:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/woh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/woh/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/tags/hugo/</loc>
