@@ -30,16 +30,17 @@
 放心, 不是网络上各种文章的copy, 我反而希望你是在尝试了主流文章后无法解决的情况下看到这篇文章.
 当然有引用的内容会注明来源(没什么引用,纯个人经验), 但是我相信这篇文章可以解决你所碰到的相同的问题.
 
+
   
     1. conda环境
     2. 宿主机外部 CUDA &amp; cudnn
     3. conda虚拟环境内部 CUDA &amp; cudnn
-    定位问题并解决问题
-    若你只有5分钟, 那么止步于此吧, 以下是进阶内容
-    你会碰到一个问题
-    4. pip install tensorflow
-    如果你想指定 CPU/GPU
-    经过测试的构建配置
+    4. 定位问题并解决问题
+    Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容
+    5. 你会碰到一个问题
+    6. pip install tensorflow
+    7. 如果你想指定 CPU/GPU
+    8. 经过测试的构建配置
     Refer
   
 " />
@@ -226,17 +227,18 @@
 <p>这一篇文章想对这些问题总结, 攥写一篇心得.</p>
 <p>放心, 不是网络上各种文章的copy, 我反而希望你是在尝试了主流文章后无法解决的情况下看到这篇文章.</p>
 <p>当然有引用的内容会注明来源(没什么引用,纯个人经验), 但是我相信这篇文章可以解决你所碰到的相同的问题.</p>
+<hr>
 <nav id="TableOfContents">
   <ul>
     <li><a href="#1-conda环境">1. conda环境</a></li>
     <li><a href="#2-宿主机外部-cuda--cudnn">2. 宿主机外部 CUDA &amp; cudnn</a></li>
     <li><a href="#3-conda虚拟环境内部-cuda--cudnn">3. conda虚拟环境内部 CUDA &amp; cudnn</a></li>
-    <li><a href="#定位问题并解决问题">定位问题并解决问题</a></li>
-    <li><a href="#若你只有5分钟-那么止步于此吧-以下是进阶内容">若你只有5分钟, 那么止步于此吧, 以下是进阶内容</a></li>
-    <li><a href="#你会碰到一个问题">你会碰到一个问题</a></li>
-    <li><a href="#4-pip-install-tensorflow">4. pip install tensorflow</a></li>
-    <li><a href="#如果你想指定-cpugpu">如果你想指定 CPU/GPU</a></li>
-    <li><a href="#经过测试的构建配置">经过测试的构建配置</a></li>
+    <li><a href="#4-定位问题并解决问题">4. 定位问题并解决问题</a></li>
+    <li><a href="#tips-若你只有5分钟-那么止步于此吧-以下是进阶内容">Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容</a></li>
+    <li><a href="#5-你会碰到一个问题">5. 你会碰到一个问题</a></li>
+    <li><a href="#6-pip-install-tensorflow">6. pip install tensorflow</a></li>
+    <li><a href="#7-如果你想指定-cpugpu">7. 如果你想指定 CPU/GPU</a></li>
+    <li><a href="#8-经过测试的构建配置">8. 经过测试的构建配置</a></li>
     <li><a href="#refer">Refer</a></li>
   </ul>
 </nav>
@@ -293,7 +295,7 @@
 </tbody>
 </table>
 <hr>
-<h2 id="定位问题并解决问题">定位问题并解决问题</h2>
+<h2 id="4-定位问题并解决问题">4. 定位问题并解决问题</h2>
 <p>所以, 对于上一个标题所说的你应该把使用 <code>pip install tensorflow</code> 所安装的 tensorflow 虚拟环境留作实验,</p>
 <p>是因为你安装了最新的 tensorflow版本, 并且没人经过实验后, 告诉你应该安装哪一个版本的 CUDA &amp; cudnn 来适配你所安装的 tensorflow版本的.</p>
 <p>并且根据本文所提供的解决方案, 你能找得到的 conda源 或 第三方源 中 CUDA &amp; cudnn 的版本也止步于 tensorflow_gpu 所适配的 CUDA =&gt; 11.2 &amp; cudnn =&gt; 8.1</p>
@@ -331,9 +333,9 @@
 <p>(我知道, 杠精就是你 =,= , 哪怕学会了魔法依旧没办法在如此广大的世界, 如此浩瀚的信息海洋中突破自我, 变成更好的自己, 真是可怜; 不过我也如此, 我也不过突破了当前的阶段达到下一个阶段而沉迷于其中无法自拔, 毕竟突破认知非朝夕之事. 愿你好自为之, 唯一的 key point 就是吾日三省吾身, 时常自省.)</p>
 <p>经过以上命令所安装的虚拟环境, 我想你是可以通过 Run 一下相关代码发现你终于可以跑起来啦! (但是因为你的显存不够又炸了.jpg)</p>
 <hr>
-<h2 id="若你只有5分钟-那么止步于此吧-以下是进阶内容">若你只有5分钟, 那么止步于此吧, 以下是进阶内容</h2>
+<h2 id="tips-若你只有5分钟-那么止步于此吧-以下是进阶内容">Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容</h2>
 <hr>
-<h2 id="你会碰到一个问题">你会碰到一个问题</h2>
+<h2 id="5-你会碰到一个问题">5. 你会碰到一个问题</h2>
 <p>问题如下, 不过我相信你会通过 google 搜索问题并得到相关的解决方案, 所以这里只是顺带一提.</p>
 <p><a href="https://stackoverflow.com/questions/72255562/cannot-import-name-dtensor-from-tensorflow-compat-v2-experimental">ImportError: cannot import name &lsquo;dtensor&rsquo; from &rsquo;tensorflow.compat.v2.experimental&rsquo;</a></p>
 <p>由于 <code>pip install tensorflow==2.6.0</code> 时, 安装的 <code>keras</code> 版本是 2.11.0, 导致了 incompatibility.</p>
@@ -372,7 +374,7 @@
 </table>
 </br>
 <hr>
-<h2 id="4-pip-install-tensorflow">4. pip install tensorflow</h2>
+<h2 id="6-pip-install-tensorflow">6. pip install tensorflow</h2>
 <p>首先我的建议是:</p>
 <blockquote>
 <p>使用 <code>pip install tensorflow</code> 来安装具有 CPU &amp; GPU 的版本</p>
@@ -388,7 +390,7 @@
 </li>
 </ul>
 <hr>
-<h2 id="如果你想指定-cpugpu">如果你想指定 CPU/GPU</h2>
+<h2 id="7-如果你想指定-cpugpu">7. 如果你想指定 CPU/GPU</h2>
 <p>对于这个需求, 笔者的解决方案是安装了两个环境</p>
 <blockquote>
 <p>一个是只能使用 CPU 的 Tensorflow 最新版, 因为它不含 CUDA &amp; cudnn , 使用以下命令安装 Tensorflow</p>
@@ -404,7 +406,7 @@
 </ul>
 <p>我记得应该是可以 google 到相关需求的解决办法的, 但是我使用了更简单粗暴的方法&hellip;.</p>
 <hr>
-<h2 id="经过测试的构建配置">经过测试的构建配置</h2>
+<h2 id="8-经过测试的构建配置">8. 经过测试的构建配置</h2>
 <p>以下列出完整的配队列表 (截止至 2023-01-04, 并给你 <a href="https://www.tensorflow.org/install/source_windows?hl=zh-cn#gpu">官方的链接</a> 让你收藏备用.</p>
 <blockquote>
 <p>CPU</p>
@@ -807,6 +809,10 @@
                 
                 
                     <li>
+                        <a href="https://gitaeron.github.io/cn/article/article/2023-01-19-%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E5%AE%9E/">旅途加油站 - 分享一段应该有人在你青春年少时对你说的话</a>
+                    </li>
+                
+                    <li>
                         <a href="https://gitaeron.github.io/cn/article/artificial-intelligence/tensorflow-issue-gpu/">Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</a>
                     </li>
                 
@@ -819,7 +825,7 @@
                     </li>
                 
                     <li>
-                        <a href="https://gitaeron.github.io/cn/article/multi-lan-series-issue/">多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</a>
+                        <a href="https://gitaeron.github.io/cn/article/tech/multi-lan-series-issue/">多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</a>
                     </li>
                 
                     <li>
@@ -835,7 +841,7 @@
                     </li>
                 
                     <li>
-                        <a href="https://gitaeron.github.io/cn/article/hugo-server/">运行 `hugo server` 期间出现的预览问题</a>
+                        <a href="https://gitaeron.github.io/cn/article/tech/hugo-server/">运行 `hugo server` 期间出现的预览问题</a>
                     </li>
                 
                     <li>
@@ -847,7 +853,7 @@
                     </li>
                 
                     <li>
-                        <a href="https://gitaeron.github.io/cn/article/installing-bilberry-theme/">Installing Bilberry Theme</a>
+                        <a href="https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/">Installing Bilberry Theme</a>
                     </li>
                 
                     <li>
@@ -895,6 +901,11 @@
                 
                 <li>
                     <a href="/cn/categories/%E6%95%99%E8%82%B2">教育
+                        (1)</a>
+                </li>
+                
+                <li>
+                    <a href="/cn/categories/%E6%96%87%E7%AB%A0">文章
                         (1)</a>
                 </li>
                 
@@ -954,7 +965,7 @@
                 </li>
                 
                 <li>
-                    <a href="/cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E">搜索引擎
+                    <a href="/cn/tags/%E6%84%9F%E6%82%9F">感悟
                         (1)</a>
                 </li>
                 

@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/article/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,11 +54,8 @@
                 href="https://gitaeron.github.io/cn/article/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/tags/artificial-intelligence/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
-  </url><url>
     <loc>https://gitaeron.github.io/cn/author/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -71,7 +68,7 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/categories/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -82,6 +79,47 @@
                 hreflang="cn"
                 href="https://gitaeron.github.io/cn/categories/"
                 />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/tags/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/article/article/2023-01-19-%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E5%AE%9E/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/</loc>
+    <lastmod>2023-01-19T21:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/cn/tags/artificial-intelligence/</loc>
+    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/cn/article/artificial-intelligence/tensorflow-issue-gpu/</loc>
     <lastmod>2023-01-04T14:16:00+08:00</lastmod>
@@ -99,19 +137,6 @@
                 href="https://gitaeron.github.io/cn/series/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/tags/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/tags/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/cn/tags/tensorflow/</loc>
     <lastmod>2023-01-04T14:16:00+08:00</lastmod>
   </url><url>
@@ -120,22 +145,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/cn/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-01-04T14:16:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/author/%E6%BE%9C%E5%86%AC%E9%9B%AA/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/cn/</loc>
-    <lastmod>2023-01-04T14:16:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/cn/article/learningenglish/%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5-2022-12-07/</loc>
     <lastmod>2022-12-07T18:40:00+08:00</lastmod>
@@ -181,17 +190,17 @@
                 href="https://gitaeron.github.io/cn/tags/issue/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/article/multi-lan-series-issue/</loc>
+    <loc>https://gitaeron.github.io/cn/article/tech/multi-lan-series-issue/</loc>
     <lastmod>2022-12-06T17:08:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/article/multi-lan-series-issue/"
+                href="https://gitaeron.github.io/article/tech/multi-lan-series-issue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://gitaeron.github.io/cn/article/multi-lan-series-issue/"
+                href="https://gitaeron.github.io/cn/article/tech/multi-lan-series-issue/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/</loc>
@@ -283,17 +292,17 @@
                 href="https://gitaeron.github.io/cn/tags/hugo/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/cn/article/hugo-server/</loc>
+    <loc>https://gitaeron.github.io/cn/article/tech/hugo-server/</loc>
     <lastmod>2022-11-27T16:44:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/article/hugo-server/"
+                href="https://gitaeron.github.io/article/tech/hugo-server/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://gitaeron.github.io/cn/article/hugo-server/"
+                href="https://gitaeron.github.io/cn/article/tech/hugo-server/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/video/kinda-love/</loc>
@@ -447,17 +456,17 @@
     <loc>https://gitaeron.github.io/cn/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/cn/article/installing-bilberry-theme/</loc>
+    <loc>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/article/installing-bilberry-theme/"
+                href="https://gitaeron.github.io/article/tech/installing-bilberry-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://gitaeron.github.io/cn/article/installing-bilberry-theme/"
+                href="https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/cn/author/lednerb/</loc>

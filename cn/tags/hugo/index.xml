@@ -8,10 +8,10 @@
     <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
-      <link>https://gitaeron.github.io/cn/article/hugo-server/</link>
+      <link>https://gitaeron.github.io/cn/article/tech/hugo-server/</link>
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/cn/article/hugo-server/</guid>
+      <guid>https://gitaeron.github.io/cn/article/tech/hugo-server/</guid>
       <description>&lt;h1 id=&#34;发生了什么&#34;&gt;发生了什么&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 期间, 发现了部分操作导致出现404页面.&lt;/li&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/cn/article/installing-bilberry-theme/</link>
+      <link>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</link>
       <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
       
-      <guid>https://gitaeron.github.io/cn/article/installing-bilberry-theme/</guid>
+      <guid>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</guid>
       <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
 on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

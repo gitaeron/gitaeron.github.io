@@ -8,10 +8,10 @@
     <lastBuildDate>Wed, 30 Nov 2022 04:58:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/bilberry-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed</title>
-      <link>https://gitaeron.github.io/article/multi-lan-series-issue/</link>
+      <link>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</link>
       <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/multi-lan-series-issue/</guid>
+      <guid>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</guid>
       <description>&lt;p&gt;Now It&amp;rsquo;s fixed at &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0&lt;/p&gt;
 &lt;hr&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Previews problem while running hugo server</title>
-      <link>https://gitaeron.github.io/article/hugo-server/</link>
+      <link>https://gitaeron.github.io/article/tech/hugo-server/</link>
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/hugo-server/</guid>
+      <guid>https://gitaeron.github.io/article/tech/hugo-server/</guid>
       <description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened&lt;/h1&gt;
 &lt;p&gt;There&amp;rsquo;s some operation caused 404 page while running &lt;code&gt;hugo server&lt;/code&gt; .&lt;/p&gt;
 &lt;p&gt;Once you changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt; during running &lt;code&gt;hugo server&lt;/code&gt; , browser&amp;rsquo;ll jumped to 404 page after you click the changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt;.&lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/article/installing-bilberry-theme/</link>
+      <link>https://gitaeron.github.io/article/tech/installing-bilberry-theme/</link>
       <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
       
-      <guid>https://gitaeron.github.io/article/installing-bilberry-theme/</guid>
+      <guid>https://gitaeron.github.io/article/tech/installing-bilberry-theme/</guid>
       <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
 on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
