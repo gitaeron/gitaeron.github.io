@@ -293,19 +293,6 @@
                 href="https://gitaeron.github.io/page/tags/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/moment/moment-2022-11-26/</loc>
-    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/moment/moment-2022-11-26/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/moment/moment-2022-11-26/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/categories/moment/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
   </url><url>
@@ -323,6 +310,9 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/tags/thanatophobia/</loc>
+    <lastmod>2022-11-26T16:19:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/moment/2022-11-26-thanatophobia/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/tags/education/</loc>
