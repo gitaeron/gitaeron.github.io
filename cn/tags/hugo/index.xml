@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on 澜氏冬雪</title>
+    <title>Hugo on 澜氏冬雪</title>
     <link>https://gitaeron.github.io/cn/tags/hugo/</link>
-    <description>Recent content in hugo on 澜氏冬雪</description>
+    <description>Recent content in Hugo on 澜氏冬雪</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,16 +18,6 @@
 &lt;/ul&gt;
 &lt;p&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 时, 当你修改了一篇文章的 &lt;code&gt;categories&lt;/code&gt; 或者 &lt;code&gt;tags&lt;/code&gt; 时, 你通过任何途径点击修改后的 &lt;code&gt;categories&lt;/code&gt; 和 &lt;code&gt;tags&lt;/code&gt; 都会出现访问的页面404.&lt;/p&gt;
 &lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
-    </item>
-    
-    <item>
-      <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</link>
-      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
-      
-      <guid>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</guid>
-      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
-on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

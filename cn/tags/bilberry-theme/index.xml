@@ -39,15 +39,5 @@
 &lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
     </item>
     
-    <item>
-      <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</link>
-      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
-      
-      <guid>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</guid>
-      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
-on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

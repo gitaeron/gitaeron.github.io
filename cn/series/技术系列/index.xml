@@ -5,7 +5,21 @@
     <link>https://gitaeron.github.io/cn/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/</link>
     <description>Recent content in 技术系列 on 澜氏冬雪</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 17:08:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/series/%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pip 国内源</title>
+      <link>https://gitaeron.github.io/cn/article/tech/pip-source-cnmirror/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/cn/article/tech/pip-source-cnmirror/</guid>
+      <description>&lt;p&gt;pip国内的一些镜像&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;中国科技大学&lt;/p&gt;
+&lt;p&gt;-i &lt;a href=&#34;https://pypi.mirrors.ustc.edu.cn/simple/&#34;&gt;https://pypi.mirrors.ustc.edu.cn/simple/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
     <item>
       <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</title>
       <link>https://gitaeron.github.io/cn/article/tech/multi-lan-series-issue/</link>
@@ -37,16 +51,6 @@
 &lt;/ul&gt;
 &lt;p&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 时, 当你修改了一篇文章的 &lt;code&gt;categories&lt;/code&gt; 或者 &lt;code&gt;tags&lt;/code&gt; 时, 你通过任何途径点击修改后的 &lt;code&gt;categories&lt;/code&gt; 和 &lt;code&gt;tags&lt;/code&gt; 都会出现访问的页面404.&lt;/p&gt;
 &lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
-    </item>
-    
-    <item>
-      <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</link>
-      <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
-      
-      <guid>https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/</guid>
-      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
-on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

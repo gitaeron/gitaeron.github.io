@@ -5,7 +5,16 @@
     <link>https://gitaeron.github.io/series/</link>
     <description>Recent content in Series on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Dec 2022 10:52:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音乐推荐</title>
+      <link>https://gitaeron.github.io/series/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/series/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Music Recommendation</title>
       <link>https://gitaeron.github.io/series/music-recommendation/</link>
@@ -21,15 +30,6 @@
       <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/series/technology-series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://gitaeron.github.io/series/society/</link>
-      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/series/society/</guid>
       <description></description>
     </item>
     

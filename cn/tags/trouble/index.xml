@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trouble on 澜氏冬雪</title>
+    <link>https://gitaeron.github.io/cn/tags/trouble/</link>
+    <description>Recent content in Trouble on 澜氏冬雪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2023 14:16:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/cn/tags/trouble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
+      <link>https://gitaeron.github.io/cn/article/artificial-intelligence/tensorflow-issue-gpu/</link>
+      <pubDate>Wed, 04 Jan 2023 14:16:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/cn/article/artificial-intelligence/tensorflow-issue-gpu/</guid>
+      <description>&lt;h1 id=&#34;首先&#34;&gt;首先&lt;/h1&gt;
+&lt;p&gt;这两天一直在解决 conda(我用的是miniconda) 环境中 &lt;code&gt;Tensorflow&lt;/code&gt; 使用 CPU 和 GPU 的问题, 主要是关于 GPU.&lt;/p&gt;
+&lt;p&gt;这一篇文章想对这些问题总结, 攥写一篇心得.&lt;/p&gt;
+&lt;p&gt;放心, 不是网络上各种文章的copy, 我反而希望你是在尝试了主流文章后无法解决的情况下看到这篇文章.&lt;/p&gt;
+&lt;p&gt;当然有引用的内容会注明来源(没什么引用,纯个人经验), 但是我相信这篇文章可以解决你所碰到的相同的问题.&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-conda环境&#34;&gt;1. conda环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-宿主机外部-cuda--cudnn&#34;&gt;2. 宿主机外部 CUDA &amp;amp; cudnn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-conda虚拟环境内部-cuda--cudnn&#34;&gt;3. conda虚拟环境内部 CUDA &amp;amp; cudnn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-定位问题并解决问题&#34;&gt;4. 定位问题并解决问题&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tips-若你只有5分钟-那么止步于此吧-以下是进阶内容&#34;&gt;Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-你会碰到一个问题&#34;&gt;5. 你会碰到一个问题&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-pip-install-tensorflow&#34;&gt;6. pip install tensorflow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-如果你想指定-cpugpu&#34;&gt;7. 如果你想指定 CPU/GPU&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-经过测试的构建配置&#34;&gt;8. 经过测试的构建配置&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer&#34;&gt;Refer&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

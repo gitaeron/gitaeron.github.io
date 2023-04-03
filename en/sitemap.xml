@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -54,8 +54,21 @@
                 href="https://gitaeron.github.io/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/video/youtube-music/always-gavin-james/</loc>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/video/youtube-music/always-gavin-james/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/video/youtube-music/always-gavin-james/"
+                />
+  </url><url>
     <loc>https://gitaeron.github.io/categories/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -67,30 +80,8 @@
                 href="https://gitaeron.github.io/categories/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/video/un-monde-a-changer/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/video/un-monde-a-changer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/video/un-monde-a-changer/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/music/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/categories/music/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/series/music-recommendation/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
-  </url><url>
     <loc>https://gitaeron.github.io/series/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -102,8 +93,21 @@
                 href="https://gitaeron.github.io/series/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/video/youtube-music/stranger-gavin-james/</loc>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/video/youtube-music/stranger-gavin-james/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/video/youtube-music/stranger-gavin-james/"
+                />
+  </url><url>
     <loc>https://gitaeron.github.io/tags/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -116,7 +120,7 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/video/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -129,7 +133,7 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/tags/youtube-music/</loc>
-    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -140,6 +144,48 @@
                 hreflang="en"
                 href="https://gitaeron.github.io/tags/youtube-music/"
                 />
+  </url><url>
+    <loc>https://gitaeron.github.io/categories/youtube-music/</loc>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/categories/youtube-music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/categories/youtube-music/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/series/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2023-04-03T21:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/series/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/series/%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/video/youtube-music/un-monde-a-changer/</loc>
+    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/video/youtube-music/un-monde-a-changer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/video/youtube-music/un-monde-a-changer/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/series/music-recommendation/</loc>
+    <lastmod>2022-12-05T10:52:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/author/aeron/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
@@ -241,17 +287,17 @@
                 href="https://gitaeron.github.io/article/tech/hugo-server/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/video/kinda-love/</loc>
+    <loc>https://gitaeron.github.io/video/youtube-music/kinda-love/</loc>
     <lastmod>2022-11-27T15:59:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://gitaeron.github.io/cn/video/kinda-love/"
+                href="https://gitaeron.github.io/cn/video/youtube-music/kinda-love/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/video/kinda-love/"
+                href="https://gitaeron.github.io/video/youtube-music/kinda-love/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/page/categories/</loc>
@@ -315,60 +361,6 @@
     <loc>https://gitaeron.github.io/moment/2022-11-26-thanatophobia/</loc>
     <lastmod>2022-11-26T16:19:00+08:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/tags/education/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/categories/education/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/quote/letter/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/quote/letter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/quote/letter/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/quote/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/quote/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/tags/society/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/series/society/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/categories/society/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/author/%E8%83%A1%E9%80%82/</loc>
-    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/%E8%83%A1%E9%80%82/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/%E8%83%A1%E9%80%82/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/link/example-google/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
     <xhtml:link
@@ -400,29 +392,9 @@
   </url><url>
     <loc>https://gitaeron.github.io/article/tech/installing-bilberry-theme/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/article/tech/installing-bilberry-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/article/tech/installing-bilberry-theme/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/author/lednerb/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://gitaeron.github.io/cn/author/lednerb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/author/lednerb/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/categories/tutorials/</loc>
     <lastmod>2021-11-01T09:31:27+01:00</lastmod>
@@ -444,6 +416,22 @@
                 />
   </url><url>
     <loc>https://gitaeron.github.io/tags/privacy/</loc>
+    <lastmod>2021-11-01T13:01:14+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/quote/</loc>
+    <lastmod>2021-11-01T13:01:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://gitaeron.github.io/cn/quote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/quote/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/categories/society/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/archive/</loc>
