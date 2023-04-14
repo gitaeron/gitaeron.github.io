@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bilberry Theme on Aeron&#39;s Tiny Blog.</title>
+    <title>Bilberry Theme on 澜氏冬雪</title>
     <link>https://gitaeron.github.io/tags/bilberry-theme/</link>
-    <description>Recent content in Bilberry Theme on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in Bilberry Theme on 澜氏冬雪</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Nov 2022 04:58:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/bilberry-theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 17:08:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/bilberry-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed</title>
+      <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</title>
       <link>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</link>
-      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</guid>
-      <description>&lt;p&gt;Now It&amp;rsquo;s fixed at &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0&lt;/p&gt;
+      <description>&lt;p&gt;已在该版本 &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0 中被修复.&lt;/p&gt;
 &lt;hr&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#first-of-all&#34;&gt;First of all&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#environment&#34;&gt;Environment&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#what-happened-&#34;&gt;What happened ?&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#unexpected-behavior&#34;&gt;Unexpected behavior&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#首先&#34;&gt;首先&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#环境&#34;&gt;环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#发生了什么-&#34;&gt;发生了什么 ?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#未预期行为&#34;&gt;未预期行为&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#结论&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;</description>
     </item>
     
     <item>
-      <title>Previews problem while running hugo server</title>
+      <title>运行 `hugo server` 期间出现的预览问题</title>
       <link>https://gitaeron.github.io/article/tech/hugo-server/</link>
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/article/tech/hugo-server/</guid>
-      <description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened&lt;/h1&gt;
-&lt;p&gt;There&amp;rsquo;s some operation caused 404 page while running &lt;code&gt;hugo server&lt;/code&gt; .&lt;/p&gt;
-&lt;p&gt;Once you changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt; during running &lt;code&gt;hugo server&lt;/code&gt; , browser&amp;rsquo;ll jumped to 404 page after you click the changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;multiple-pictures-contained&#34;&gt;Multiple pictures contained&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;发生了什么&#34;&gt;发生了什么&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 期间, 发现了部分操作导致出现404页面.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 时, 当你修改了一篇文章的 &lt;code&gt;categories&lt;/code&gt; 或者 &lt;code&gt;tags&lt;/code&gt; 时, 你通过任何途径点击修改后的 &lt;code&gt;categories&lt;/code&gt; 和 &lt;code&gt;tags&lt;/code&gt; 都会出现访问的页面404.&lt;/p&gt;
+&lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
     </item>
     
     <item>

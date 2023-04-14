@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Aeron&#39;s Tiny Blog.</title>
+    <link>https://gitaeron.github.io/en/series/</link>
+    <description>Recent content in Series on Aeron&#39;s Tiny Blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Apr 2023 22:40:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music Recommendation</title>
+      <link>https://gitaeron.github.io/en/series/music-recommendation/</link>
+      <pubDate>Wed, 12 Apr 2023 22:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/series/music-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Series</title>
+      <link>https://gitaeron.github.io/en/series/technology-series/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/series/technology-series/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

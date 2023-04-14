@@ -1,0 +1,108 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aeron&#39;s Tiny Blog.</title>
+    <link>https://gitaeron.github.io/en/</link>
+    <description>Recent content on Aeron&#39;s Tiny Blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Apr 2023 22:40:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://gitaeron.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gavin James - Boxes</title>
+      <link>https://gitaeron.github.io/en/video/youtube-music/boxes-gavin-james/</link>
+      <pubDate>Wed, 12 Apr 2023 22:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/video/youtube-music/boxes-gavin-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin James - Always</title>
+      <link>https://gitaeron.github.io/en/video/youtube-music/always-gavin-james/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/video/youtube-music/always-gavin-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin James - Stranger</title>
+      <link>https://gitaeron.github.io/en/video/youtube-music/stranger-gavin-james/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/video/youtube-music/stranger-gavin-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lilliu Nyco - Un Monde A Changer (Clip Officiel - extrait de &#39;Robin des Bois&#39;)</title>
+      <link>https://gitaeron.github.io/en/video/youtube-music/un-monde-a-changer/</link>
+      <pubDate>Mon, 05 Dec 2022 10:52:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/video/youtube-music/un-monde-a-changer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An issue caused by using `series` with Multi Language and cause unexpected behavior - Fixed</title>
+      <link>https://gitaeron.github.io/en/article/tech/multi-lan-series-issue/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/tech/multi-lan-series-issue/</guid>
+      <description>&lt;p&gt;Now It&amp;rsquo;s fixed at &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#first-of-all&#34;&gt;First of all&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#environment&#34;&gt;Environment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-happened-&#34;&gt;What happened ?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#unexpected-behavior&#34;&gt;Unexpected behavior&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>Previews problem while running hugo server</title>
+      <link>https://gitaeron.github.io/en/article/tech/hugo-server/</link>
+      <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/tech/hugo-server/</guid>
+      <description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened&lt;/h1&gt;
+&lt;p&gt;There&amp;rsquo;s some operation caused 404 page while running &lt;code&gt;hugo server&lt;/code&gt; .&lt;/p&gt;
+&lt;p&gt;Once you changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt; during running &lt;code&gt;hugo server&lt;/code&gt; , browser&amp;rsquo;ll jumped to 404 page after you click the changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;multiple-pictures-contained&#34;&gt;Multiple pictures contained&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>Olivier Dion - Kinda love(French version)</title>
+      <link>https://gitaeron.github.io/en/video/youtube-music/kinda-love/</link>
+      <pubDate>Sun, 27 Nov 2022 15:59:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/video/youtube-music/kinda-love/</guid>
+      <description>This songs have both English and French version. This audio is French version.
+If you are using Youtube Music , you can switch to Video to listen English version.</description>
+    </item>
+    
+    <item>
+      <title>Google.com</title>
+      <link>https://gitaeron.github.io/en/link/example-google/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/link/example-google/</guid>
+      <description>A search engine.</description>
+    </item>
+    
+    <item>
+      <title>Edward Snowden About Privacy</title>
+      <link>https://gitaeron.github.io/en/quote/edward-snowden-privacy/</link>
+      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/quote/edward-snowden-privacy/</guid>
+      <description>Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.</description>
+    </item>
+    
+  </channel>
+</rss>

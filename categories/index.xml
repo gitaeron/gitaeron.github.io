@@ -1,35 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Aeron&#39;s Tiny Blog.</title>
+    <title>Categories on 澜氏冬雪</title>
     <link>https://gitaeron.github.io/categories/</link>
-    <description>Recent content in Categories on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in Categories on 澜氏冬雪</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 22:50:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>有感而言</title>
+      <link>https://gitaeron.github.io/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%A8%80/</link>
+      <pubDate>Fri, 14 Apr 2023 22:50:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Youtube-Music</title>
       <link>https://gitaeron.github.io/categories/youtube-music/</link>
-      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      <pubDate>Wed, 12 Apr 2023 22:40:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/categories/youtube-music/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tech</title>
-      <link>https://gitaeron.github.io/categories/tech/</link>
-      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      <title>技术</title>
+      <link>https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/categories/tech/</guid>
+      <guid>https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>moment</title>
-      <link>https://gitaeron.github.io/categories/moment/</link>
-      <pubDate>Sat, 26 Nov 2022 16:19:00 +0800</pubDate>
+      <title>文章</title>
+      <link>https://gitaeron.github.io/categories/%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sun, 26 Mar 2023 22:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/categories/moment/</guid>
+      <guid>https://gitaeron.github.io/categories/%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://gitaeron.github.io/categories/learning/</link>
+      <pubDate>Wed, 07 Dec 2022 18:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教育</title>
+      <link>https://gitaeron.github.io/categories/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/categories/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会</title>
+      <link>https://gitaeron.github.io/categories/%E7%A4%BE%E4%BC%9A/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/categories/%E7%A4%BE%E4%BC%9A/</guid>
       <description></description>
     </item>
     
@@ -39,15 +75,6 @@
       <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
       
       <guid>https://gitaeron.github.io/categories/tutorials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://gitaeron.github.io/categories/society/</link>
-      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/categories/society/</guid>
       <description></description>
     </item>
     

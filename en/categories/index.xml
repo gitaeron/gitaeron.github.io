@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aeron&#39;s Tiny Blog.</title>
+    <link>https://gitaeron.github.io/en/categories/</link>
+    <description>Recent content in Categories on Aeron&#39;s Tiny Blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Apr 2023 22:40:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Youtube-Music</title>
+      <link>https://gitaeron.github.io/en/categories/youtube-music/</link>
+      <pubDate>Wed, 12 Apr 2023 22:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/categories/youtube-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://gitaeron.github.io/en/categories/tech/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>https://gitaeron.github.io/en/categories/society/</link>
+      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/categories/society/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
