@@ -1,13 +1,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>澜氏冬雪</title>
+    <title>澜长生</title>
     <link>https://gitaeron.github.io/</link>
-    <description>Recent content on 澜氏冬雪</description>
+    <description>Recent content on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 22:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 20:51:00 +0800</lastBuildDate>
     
         <atom:link href="https://gitaeron.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>今有稚子持道心, 以身问道向长生</title>
+      <link>https://gitaeron.github.io/article/%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%BF%87%E7%94%9F%E6%AD%BB%E4%B9%8B%E9%97%B4%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%99%E6%AE%B5%E8%B7%AF%E7%A8%8B/2023-05-04-%E4%BB%8A%E6%9C%89%E7%A8%9A%E5%AD%90%E6%8C%81%E9%81%93%E5%BF%83%E4%BB%A5%E8%BA%AB%E9%97%AE%E9%81%93%E5%90%91%E9%95%BF%E7%94%9F/</link>
+      <pubDate>Thu, 04 May 2023 20:51:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%BF%87%E7%94%9F%E6%AD%BB%E4%B9%8B%E9%97%B4%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%99%E6%AE%B5%E8%B7%AF%E7%A8%8B/2023-05-04-%E4%BB%8A%E6%9C%89%E7%A8%9A%E5%AD%90%E6%8C%81%E9%81%93%E5%BF%83%E4%BB%A5%E8%BA%AB%E9%97%AE%E9%81%93%E5%90%91%E9%95%BF%E7%94%9F/</guid>
+      <description>&lt;p&gt;晚生有言:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;古往今来道恒一, 旧贤新修唯问道.&lt;/p&gt;
+&lt;p&gt;雨生碧落归陆海, 此程终有来去处.&lt;/p&gt;
+&lt;p&gt;今有稚子持道心, 以身问道向长生.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;澜氏, 问道.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyttsx3 setProperty IndexError</title>
+      <link>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</guid>
+      <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#为什么会发生这个错误&#34;&gt;为什么会发生这个错误&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#如何解决&#34;&gt;如何解决&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#另一种情况&#34;&gt;另一种情况&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
     
     <item>
       <title>不畏天下人负我, 只畏星辰再无人</title>
@@ -51,15 +83,16 @@
     
     <item>
       <title>pip 国内源</title>
-      <link>https://gitaeron.github.io/article/tech/pip-source-cnmirror/</link>
+      <link>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</link>
       <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/tech/pip-source-cnmirror/</guid>
+      <guid>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</guid>
       <description>&lt;p&gt;pip国内的一些镜像&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;中国科技大学&lt;/p&gt;
 &lt;p&gt;-i &lt;a href=&#34;https://pypi.mirrors.ustc.edu.cn/simple/&#34;&gt;https://pypi.mirrors.ustc.edu.cn/simple/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;proxy=127.0.0.1:1&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -125,10 +158,10 @@
     
     <item>
       <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
-      <link>https://gitaeron.github.io/article/artificial-intelligence/tensorflow-issue-gpu/</link>
+      <link>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</link>
       <pubDate>Wed, 04 Jan 2023 14:16:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/artificial-intelligence/tensorflow-issue-gpu/</guid>
+      <guid>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</guid>
       <description>&lt;h1 id=&#34;首先&#34;&gt;首先&lt;/h1&gt;
 &lt;p&gt;这两天一直在解决 conda(我用的是miniconda) 环境中 &lt;code&gt;Tensorflow&lt;/code&gt; 使用 CPU 和 GPU 的问题, 主要是关于 GPU.&lt;/p&gt;
 &lt;p&gt;这一篇文章想对这些问题总结, 攥写一篇心得.&lt;/p&gt;
@@ -153,10 +186,10 @@
     
     <item>
       <title>基础语法 -- 并列句</title>
-      <link>https://gitaeron.github.io/article/learningenglish/%E5%B9%B6%E5%88%97%E5%8F%A5-2022-12-07/</link>
+      <link>https://gitaeron.github.io/article/learning-english/2022-12-07-%E5%B9%B6%E5%88%97%E5%8F%A5/</link>
       <pubDate>Wed, 07 Dec 2022 18:40:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/learningenglish/%E5%B9%B6%E5%88%97%E5%8F%A5-2022-12-07/</guid>
+      <guid>https://gitaeron.github.io/article/learning-english/2022-12-07-%E5%B9%B6%E5%88%97%E5%8F%A5/</guid>
       <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#并列句&#34;&gt;并列句&lt;/a&gt;&lt;/li&gt;
@@ -168,10 +201,10 @@
     
     <item>
       <title>基础语法 -- 复合句 - 从句</title>
-      <link>https://gitaeron.github.io/article/learningenglish/%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5-2022-12-07/</link>
+      <link>https://gitaeron.github.io/article/learning-english/2022-12-07-%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5/</link>
       <pubDate>Wed, 07 Dec 2022 18:40:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/learningenglish/%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5-2022-12-07/</guid>
+      <guid>https://gitaeron.github.io/article/learning-english/2022-12-07-%E5%A4%8D%E5%90%88%E5%8F%A5-%E4%BB%8E%E5%8F%A5/</guid>
       <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#1-名词性从句&#34;&gt;1. 名词性从句&lt;/a&gt;
@@ -188,10 +221,10 @@
     
     <item>
       <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</title>
-      <link>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</link>
+      <link>https://gitaeron.github.io/article/technology/2022-11-30-multi-lan-series-issue/</link>
       <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/tech/multi-lan-series-issue/</guid>
+      <guid>https://gitaeron.github.io/article/technology/2022-11-30-multi-lan-series-issue/</guid>
       <description>&lt;p&gt;已在该版本 &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0 中被修复.&lt;/p&gt;
 &lt;hr&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -216,10 +249,10 @@
     
     <item>
       <title>基础语法 -- 简单句</title>
-      <link>https://gitaeron.github.io/article/learningenglish/%E7%AE%80%E5%8D%95%E5%8F%A5-2022-12-05/</link>
+      <link>https://gitaeron.github.io/article/learning-english/2022-12-05-%E7%AE%80%E5%8D%95%E5%8F%A5/</link>
       <pubDate>Mon, 05 Dec 2022 00:09:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/learningenglish/%E7%AE%80%E5%8D%95%E5%8F%A5-2022-12-05/</guid>
+      <guid>https://gitaeron.github.io/article/learning-english/2022-12-05-%E7%AE%80%E5%8D%95%E5%8F%A5/</guid>
       <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#一-简单句&#34;&gt;一 简单句&lt;/a&gt;&lt;/li&gt;
@@ -260,10 +293,10 @@
     
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
-      <link>https://gitaeron.github.io/article/tech/hugo-server/</link>
+      <link>https://gitaeron.github.io/article/technology/2022-11-27-hugo-server/</link>
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/tech/hugo-server/</guid>
+      <guid>https://gitaeron.github.io/article/technology/2022-11-27-hugo-server/</guid>
       <description>&lt;h1 id=&#34;发生了什么&#34;&gt;发生了什么&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 期间, 发现了部分操作导致出现404页面.&lt;/li&gt;
@@ -307,10 +340,10 @@
     
     <item>
       <title>Installing Bilberry Theme</title>
-      <link>https://gitaeron.github.io/article/tech/installing-bilberry-theme/</link>
+      <link>https://gitaeron.github.io/article/technology/2021-11-01-installing-bilberry-theme/</link>
       <pubDate>Mon, 01 Nov 2021 09:31:27 +0100</pubDate>
       
-      <guid>https://gitaeron.github.io/article/tech/installing-bilberry-theme/</guid>
+      <guid>https://gitaeron.github.io/article/technology/2021-11-01-installing-bilberry-theme/</guid>
       <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
 on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

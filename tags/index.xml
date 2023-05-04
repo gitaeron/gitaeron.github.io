@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 澜氏冬雪</title>
+    <title>Tags on 澜长生</title>
     <link>https://gitaeron.github.io/tags/</link>
-    <description>Recent content in Tags on 澜氏冬雪</description>
+    <description>Recent content in Tags on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 22:50:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 20:51:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>闲散短句</title>
       <link>https://gitaeron.github.io/tags/%E9%97%B2%E6%95%A3%E7%9F%AD%E5%8F%A5/</link>
-      <pubDate>Fri, 14 Apr 2023 22:50:00 +0800</pubDate>
+      <pubDate>Thu, 04 May 2023 20:51:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/tags/%E9%97%B2%E6%95%A3%E7%9F%AD%E5%8F%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyttsx3</title>
+      <link>https://gitaeron.github.io/tags/pyttsx3/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/pyttsx3/</guid>
       <description></description>
     </item>
     

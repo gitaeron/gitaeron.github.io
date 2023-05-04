@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tensorflow on 澜氏冬雪</title>
+    <title>Tensorflow on 澜长生</title>
     <link>https://gitaeron.github.io/tags/tensorflow/</link>
-    <description>Recent content in Tensorflow on 澜氏冬雪</description>
+    <description>Recent content in Tensorflow on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 04 Jan 2023 14:16:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
-      <link>https://gitaeron.github.io/article/artificial-intelligence/tensorflow-issue-gpu/</link>
+      <link>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</link>
       <pubDate>Wed, 04 Jan 2023 14:16:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/artificial-intelligence/tensorflow-issue-gpu/</guid>
+      <guid>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</guid>
       <description>&lt;h1 id=&#34;首先&#34;&gt;首先&lt;/h1&gt;
 &lt;p&gt;这两天一直在解决 conda(我用的是miniconda) 环境中 &lt;code&gt;Tensorflow&lt;/code&gt; 使用 CPU 和 GPU 的问题, 主要是关于 GPU.&lt;/p&gt;
 &lt;p&gt;这一篇文章想对这些问题总结, 攥写一篇心得.&lt;/p&gt;

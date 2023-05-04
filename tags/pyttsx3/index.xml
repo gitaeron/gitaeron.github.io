@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pyttsx3 on 澜长生</title>
+    <link>https://gitaeron.github.io/tags/pyttsx3/</link>
+    <description>Recent content in pyttsx3 on 澜长生</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/pyttsx3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pyttsx3 setProperty IndexError</title>
+      <link>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</guid>
+      <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#为什么会发生这个错误&#34;&gt;为什么会发生这个错误&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#如何解决&#34;&gt;如何解决&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#另一种情况&#34;&gt;另一种情况&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
