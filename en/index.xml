@@ -4,10 +4,20 @@
     <link>https://gitaeron.github.io/en/</link>
     <description>Recent content on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate>
     
         <atom:link href="https://gitaeron.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>https://gitaeron.github.io/en/article/2023/may/installing-bilberry-theme/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/2023/may/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
+on the official &lt;br&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>pyttsx3 setProperty IndexError</title>

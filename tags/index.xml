@@ -5,7 +5,34 @@
     <link>https://gitaeron.github.io/tags/</link>
     <description>Recent content in Tags on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 May 2023 20:51:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bilberry Theme</title>
+      <link>https://gitaeron.github.io/tags/bilberry-theme/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/bilberry-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://gitaeron.github.io/tags/hugo/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translate by chatgpt-3.5</title>
+      <link>https://gitaeron.github.io/tags/translate-by-chatgpt-3.5/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/translate-by-chatgpt-3.5/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>闲散短句</title>
       <link>https://gitaeron.github.io/tags/%E9%97%B2%E6%95%A3%E7%9F%AD%E5%8F%A5/</link>
@@ -61,20 +88,38 @@
     </item>
     
     <item>
-      <title>感悟人生</title>
-      <link>https://gitaeron.github.io/tags/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/</link>
+      <title>感悟</title>
+      <link>https://gitaeron.github.io/tags/%E6%84%9F%E6%82%9F/</link>
       <pubDate>Sun, 26 Mar 2023 22:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/tags/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/</guid>
+      <guid>https://gitaeron.github.io/tags/%E6%84%9F%E6%82%9F/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>有感而言</title>
-      <link>https://gitaeron.github.io/tags/%E6%9C%89%E6%84%9F%E8%80%8C%E8%A8%80/</link>
+      <title>迷茫与前路无望</title>
+      <link>https://gitaeron.github.io/tags/%E8%BF%B7%E8%8C%AB%E4%B8%8E%E5%89%8D%E8%B7%AF%E6%97%A0%E6%9C%9B/</link>
       <pubDate>Sun, 26 Mar 2023 22:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/tags/%E6%9C%89%E6%84%9F%E8%80%8C%E8%A8%80/</guid>
+      <guid>https://gitaeron.github.io/tags/%E8%BF%B7%E8%8C%AB%E4%B8%8E%E5%89%8D%E8%B7%AF%E6%97%A0%E6%9C%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教育</title>
+      <link>https://gitaeron.github.io/tags/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Thu, 19 Jan 2023 21:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人生</title>
+      <link>https://gitaeron.github.io/tags/%E4%BA%BA%E7%94%9F/</link>
+      <pubDate>Thu, 19 Jan 2023 21:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/tags/%E4%BA%BA%E7%94%9F/</guid>
       <description></description>
     </item>
     
@@ -106,47 +151,20 @@
     </item>
     
     <item>
-      <title>Bilberry Theme</title>
-      <link>https://gitaeron.github.io/tags/bilberry-theme/</link>
-      <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
+      <title>搜索引擎</title>
+      <link>https://gitaeron.github.io/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>https://gitaeron.github.io/tags/bilberry-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://gitaeron.github.io/tags/hugo/</link>
-      <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>教育</title>
-      <link>https://gitaeron.github.io/tags/%E6%95%99%E8%82%B2/</link>
-      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/tags/%E6%95%99%E8%82%B2/</guid>
+      <guid>https://gitaeron.github.io/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>社会</title>
       <link>https://gitaeron.github.io/tags/%E7%A4%BE%E4%BC%9A/</link>
-      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/tags/%E7%A4%BE%E4%BC%9A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>搜索引擎</title>
-      <link>https://gitaeron.github.io/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
-      
-      <guid>https://gitaeron.github.io/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
       <description></description>
     </item>
     

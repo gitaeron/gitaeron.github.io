@@ -5,7 +5,16 @@
     <link>https://gitaeron.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;您将在 &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;官方Github存储库&lt;/a&gt; 中找到所有有关如何在您的Hugo网站中设置此主题的信息.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
       <link>https://gitaeron.github.io/article/2022/november/hugo-server/</link>

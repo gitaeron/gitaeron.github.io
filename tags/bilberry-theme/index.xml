@@ -5,7 +5,16 @@
     <link>https://gitaeron.github.io/tags/bilberry-theme/</link>
     <description>Recent content in Bilberry Theme on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 17:08:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/bilberry-theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/bilberry-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;您将在 &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;官方Github存储库&lt;/a&gt; 中找到所有有关如何在您的Hugo网站中设置此主题的信息.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为</title>
       <link>https://gitaeron.github.io/article/2022/november/multilan-series-issue/</link>
