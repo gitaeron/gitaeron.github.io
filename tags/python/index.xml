@@ -8,10 +8,10 @@
     <lastBuildDate>Mon, 03 Apr 2023 21:00:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pip 国内源</title>
-      <link>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</link>
+      <link>https://gitaeron.github.io/article/2023/april/pip-source/</link>
       <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</guid>
+      <guid>https://gitaeron.github.io/article/2023/april/pip-source/</guid>
       <description>&lt;p&gt;pip国内的一些镜像&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;

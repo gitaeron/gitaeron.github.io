@@ -8,10 +8,10 @@
     <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/tags/translate-by-chatgpt-3.5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pyttsx3 setProperty IndexError</title>
-      <link>https://gitaeron.github.io/en/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</link>
+      <link>https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/</link>
       <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/en/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</guid>
+      <guid>https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/</guid>
       <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;

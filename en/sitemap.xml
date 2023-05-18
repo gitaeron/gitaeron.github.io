@@ -109,30 +109,17 @@
                 href="https://gitaeron.github.io/en/tags/pyttsx3/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</loc>
+    <loc>https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/</loc>
     <lastmod>2023-04-18T21:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/"
+                href="https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/en/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/"
-                />
-  </url><url>
-    <loc>https://gitaeron.github.io/en/series/</loc>
-    <lastmod>2023-04-18T21:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/series/"
+                href="https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/en/tags/</loc>
@@ -150,19 +137,6 @@
   </url><url>
     <loc>https://gitaeron.github.io/en/categories/technology/</loc>
     <lastmod>2023-04-18T21:55:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/en/series/technology-series/</loc>
-    <lastmod>2023-04-18T21:55:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/series/technology-series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/series/technology-series/"
-                />
   </url><url>
     <loc>https://gitaeron.github.io/en/tags/translate-by-chatgpt-3.5/</loc>
     <lastmod>2023-04-18T21:55:00+08:00</lastmod>
@@ -182,6 +156,19 @@
   </url><url>
     <loc>https://gitaeron.github.io/en/series/music-recommendation/</loc>
     <lastmod>2023-04-12T22:40:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/en/series/</loc>
+    <lastmod>2023-04-12T22:40:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gitaeron.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/en/series/"
+                />
   </url><url>
     <loc>https://gitaeron.github.io/en/video/</loc>
     <lastmod>2023-04-12T22:40:00+08:00</lastmod>
@@ -261,17 +248,17 @@
                 href="https://gitaeron.github.io/en/video/youtube-music/un-monde-a-changer/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/article/technology/2022-11-30-multi-lan-series-issue/</loc>
+    <loc>https://gitaeron.github.io/en/article/2022/november/multilan-series-issue/</loc>
     <lastmod>2022-11-30T04:58:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gitaeron.github.io/article/technology/2022-11-30-multi-lan-series-issue/"
+                href="https://gitaeron.github.io/article/2022/november/multilan-series-issue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/en/article/technology/2022-11-30-multi-lan-series-issue/"
+                href="https://gitaeron.github.io/en/article/2022/november/multilan-series-issue/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/en/tags/bilberry-theme/</loc>
@@ -287,19 +274,6 @@
                 href="https://gitaeron.github.io/en/tags/bilberry-theme/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/tags/issue/</loc>
-    <lastmod>2022-11-30T04:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/tags/issue/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/tags/issue/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/en/tags/hugo/</loc>
     <lastmod>2022-11-27T16:44:00+08:00</lastmod>
     <xhtml:link
@@ -313,17 +287,17 @@
                 href="https://gitaeron.github.io/en/tags/hugo/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/article/technology/2022-11-27-hugo-server/</loc>
+    <loc>https://gitaeron.github.io/en/article/2022/november/hugo-server/</loc>
     <lastmod>2022-11-27T16:44:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://gitaeron.github.io/article/technology/2022-11-27-hugo-server/"
+                href="https://gitaeron.github.io/article/2022/november/hugo-server/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gitaeron.github.io/en/article/technology/2022-11-27-hugo-server/"
+                href="https://gitaeron.github.io/en/article/2022/november/hugo-server/"
                 />
   </url><url>
     <loc>https://gitaeron.github.io/en/categories/tech/</loc>

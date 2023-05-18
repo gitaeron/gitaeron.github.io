@@ -8,10 +8,10 @@
     <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pyttsx3 setProperty IndexError</title>
-      <link>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</link>
+      <link>https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/</link>
       <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/technology/2023-04-17-pyttsx3-setproperty-indexerror/</guid>
+      <guid>https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/</guid>
       <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>pip 国内源</title>
-      <link>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</link>
+      <link>https://gitaeron.github.io/article/2023/april/pip-source/</link>
       <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/technology/2023-04-03-pip-source-cnmirror/</guid>
+      <guid>https://gitaeron.github.io/article/2023/april/pip-source/</guid>
       <description>&lt;p&gt;pip国内的一些镜像&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
-      <link>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</link>
+      <link>https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/</link>
       <pubDate>Wed, 04 Jan 2023 14:16:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/artificial-intelligence/2023-01-04-tensorflow-issue-gpu/</guid>
+      <guid>https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/</guid>
       <description>&lt;h1 id=&#34;首先&#34;&gt;首先&lt;/h1&gt;
 &lt;p&gt;这两天一直在解决 conda(我用的是miniconda) 环境中 &lt;code&gt;Tensorflow&lt;/code&gt; 使用 CPU 和 GPU 的问题, 主要是关于 GPU.&lt;/p&gt;
 &lt;p&gt;这一篇文章想对这些问题总结, 攥写一篇心得.&lt;/p&gt;
@@ -66,11 +66,11 @@
     </item>
     
     <item>
-      <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为 - Fixed</title>
-      <link>https://gitaeron.github.io/article/technology/2022-11-30-multi-lan-series-issue/</link>
+      <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为</title>
+      <link>https://gitaeron.github.io/article/2022/november/multilan-series-issue/</link>
       <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/technology/2022-11-30-multi-lan-series-issue/</guid>
+      <guid>https://gitaeron.github.io/article/2022/november/multilan-series-issue/</guid>
       <description>&lt;p&gt;已在该版本 &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0 中被修复.&lt;/p&gt;
 &lt;hr&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>运行 `hugo server` 期间出现的预览问题</title>
-      <link>https://gitaeron.github.io/article/technology/2022-11-27-hugo-server/</link>
+      <link>https://gitaeron.github.io/article/2022/november/hugo-server/</link>
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/technology/2022-11-27-hugo-server/</guid>
+      <guid>https://gitaeron.github.io/article/2022/november/hugo-server/</guid>
       <description>&lt;h1 id=&#34;发生了什么&#34;&gt;发生了什么&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 期间, 发现了部分操作导致出现404页面.&lt;/li&gt;
