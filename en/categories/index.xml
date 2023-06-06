@@ -5,6 +5,7 @@
     <link>https://gitaeron.github.io/en/categories/</link>
     <description>Recent content in Categories on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
@@ -48,6 +49,15 @@
       <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/en/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://gitaeron.github.io/en/categories/life/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/categories/life/</guid>
       <description></description>
     </item>
     

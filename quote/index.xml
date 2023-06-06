@@ -5,13 +5,14 @@
     <link>https://gitaeron.github.io/quote/</link>
     <description>Recent content in Quotes on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 20 Nov 2022 23:58:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/quote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>胡适写给儿子的信</title>
-      <link>https://gitaeron.github.io/quote/letter/</link>
+      <link>https://gitaeron.github.io/quote/hushi-letter/</link>
       <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/quote/letter/</guid>
+      <guid>https://gitaeron.github.io/quote/hushi-letter/</guid>
       <description>胡适写给儿子的信 : 我养育你, 并非恩情, 只是血缘使然的生物本能；所以, 我既然无恩于你, 你便无需报答我.
 反而, 我要感谢你, 因为有你的参与, 我的生命才更完整.
 我只是碰巧成为了你的父亲, 你只是碰巧成为了我的女儿和儿子, 我并不是你的前传, 你也不是我的续篇.
@@ -26,8 +27,8 @@
       <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/quote/edward-snowden-privacy/</guid>
-      <description>Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.
-因为你没有什么可隐瞒的而争辩说你不关心隐私权,这与说你因为无话可说而不关心言论自由没有什么不同.</description>
+      <description>认为你不在乎隐私权，因为你没有什么可隐瞒的，这跟说你不在乎自由言论，因为你没有什么可说的是一样的。
+Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.</description>
     </item>
     
   </channel>

@@ -28,19 +28,6 @@
                 href="https://gitaeron.github.io/en/page/readme/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/page/series/</loc>
-    <lastmod>2022-11-27T09:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/page/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/page/series/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/en/</loc>
     <lastmod>2023-05-18T15:32:00+08:00</lastmod>
     <xhtml:link
@@ -222,22 +209,6 @@
                 href="https://gitaeron.github.io/en/video/youtube-music/boxes-gavin-james/"
                 />
   </url><url>
-    <loc>https://gitaeron.github.io/en/series/music-recommendation/</loc>
-    <lastmod>2023-04-12T22:40:00+08:00</lastmod>
-  </url><url>
-    <loc>https://gitaeron.github.io/en/series/</loc>
-    <lastmod>2023-04-12T22:40:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/series/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/en/video/</loc>
     <lastmod>2023-04-12T22:40:00+08:00</lastmod>
     <xhtml:link
@@ -397,6 +368,41 @@
                 href="https://gitaeron.github.io/en/page/tags/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/en/tags/education/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/en/author/hu-shi/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/en/quote/hushi-letter/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gitaeron.github.io/quote/hushi-letter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/en/quote/hushi-letter/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/en/categories/life/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gitaeron.github.io/en/quote/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gitaeron.github.io/quote/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/en/quote/"
+                />
+  </url><url>
     <loc>https://gitaeron.github.io/en/link/example-google/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
     <xhtml:link
@@ -445,19 +451,6 @@
     <loc>https://gitaeron.github.io/en/tags/privacy/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/en/quote/</loc>
-    <lastmod>2021-11-01T13:01:14+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/quote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/quote/"
-                />
-  </url><url>
     <loc>https://gitaeron.github.io/en/categories/society/</loc>
     <lastmod>2021-11-01T13:01:14+08:00</lastmod>
   </url><url>
@@ -471,6 +464,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gitaeron.github.io/en/archive/"
+                />
+  </url><url>
+    <loc>https://gitaeron.github.io/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gitaeron.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/en/series/"
                 />
   </url>
 </urlset>

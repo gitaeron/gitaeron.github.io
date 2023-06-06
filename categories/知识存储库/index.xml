@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知识存储库 on 澜长生</title>
+    <link>https://gitaeron.github.io/categories/%E7%9F%A5%E8%AF%86%E5%AD%98%E5%82%A8%E5%BA%93/</link>
+    <description>Recent content in 知识存储库 on 澜长生</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 04 May 2023 20:51:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/categories/%E7%9F%A5%E8%AF%86%E5%AD%98%E5%82%A8%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一篇文章讲透SEO - 上篇 - 转载</title>
+      <link>https://gitaeron.github.io/article/2023/june/seo-previous/</link>
+      <pubDate>Thu, 04 May 2023 20:51:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/june/seo-previous/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;全文的逻辑大纲&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;谷歌SEO概念(易懂版)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;搜索引擎极简原理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;关键词部分(查找与扩充、筛选与归类)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;内容部分(页面SEO、Tech SEO等、内容价值、内容营销)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;一篇文章讲透SEO - 上篇 - 转载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;外链部分(注意点、类型、各类操作方式等)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Rankbrain(概念、应对操作)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;品牌因素(概念、应对操作)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;其他(惩罚因素、本地排名、语音排名、EAT、新鲜度)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;工具(官方工具、关键词工具、站内SEO检测工具、外链工具、综合类工具)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;一篇文章讲透SEO - 下篇 - 转载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-谷歌seo优化概念&#34;&gt;1. 谷歌SEO优化概念&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-搜索引擎极简原理&#34;&gt;2. 搜索引擎极简原理&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-工作原理&#34;&gt;2.1 工作原理&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-抓取和索引&#34;&gt;2.2 抓取和索引&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#23-收录查询&#34;&gt;2.3 收录查询&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#24-sitemap&#34;&gt;2.4 Sitemap&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#25-收录促进&#34;&gt;2.5 收录促进&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#26-拒绝抓取与索引-robotstxtnoindex&#34;&gt;2.6 拒绝抓取与索引: Robots.txt/noindex&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-关键词&#34;&gt;3. 关键词&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#31-所以关键词有两点&#34;&gt;3.1 所以关键词有两点:&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#32-如何确认关键词是否准确&#34;&gt;3.2 如何确认关键词是否准确?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#33-如何找同义词近义词及长尾词&#34;&gt;3.3 如何找同义词、近义词及长尾词?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#34-如何找全关键词&#34;&gt;3.4 如何找全关键词?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#35-如何找全归类&#34;&gt;3.5 如何找全归类?&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-内容&#34;&gt;4. 内容&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-内容的概念&#34;&gt;4.1 内容的概念&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#42-核心词on-page-seo&#34;&gt;4.2 核心词－On page SEO&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#421-关键词覆盖&#34;&gt;4.2.1 关键词覆盖&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#422-关键词表分析&#34;&gt;4.2.2 关键词表分析&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#423-关键词表总结&#34;&gt;4.2.3 关键词表总结&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#424-lsi关键词&#34;&gt;4.2.4 LSI关键词&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#425-创作内容覆盖关键词案例&#34;&gt;4.2.5 创作内容覆盖关键词案例&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#426-关键词覆盖规则&#34;&gt;4.2.6 关键词覆盖规则&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#427-案例解释&#34;&gt;4.2.7 案例解释&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#428-pbc写作技巧&#34;&gt;4.2.8 PBC写作技巧&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#43-tech-seo&#34;&gt;4.3 Tech SEO&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#431-服务器&#34;&gt;4.3.1 服务器&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#432-域名&#34;&gt;4.3.2 域名&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#ex1-服务器和域名对seo有哪些影响&#34;&gt;Ex1: 服务器和域名对SEO有哪些影响&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#433-移动端体验&#34;&gt;4.3.3 移动端体验&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4331-做好移动端主要应该注意什么&#34;&gt;4.3.3.1 做好移动端主要应该注意什么?&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#434-抓取与收录&#34;&gt;4.3.4 抓取与收录&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#435-死链接或错误页面&#34;&gt;4.3.5 死链接或错误页面&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4351-如何解决失效链接&#34;&gt;4.3.5.1 如何解决失效链接?&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4352-如何做重定向&#34;&gt;4.3.5.2 如何做重定向?&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#436-网站速度&#34;&gt;4.3.6 网站速度&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4361-突发性速度问题&#34;&gt;4.3.6.1 突发性速度问题&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4362-常规速度问题&#34;&gt;4.3.6.2 常规速度问题&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4363-core-web-vitals核心网络体征四个指标&#34;&gt;4.3.6.3 Core Web Vitals(核心网络体征)四个指标&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4364-如何提升速度&#34;&gt;4.3.6.4 如何提升速度&lt;/a&gt;
+              &lt;ul&gt;
+                &lt;li&gt;&lt;a href=&#34;#43641-选合适的服务器&#34;&gt;4.3.6.4.1 选合适的服务器.&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex2-服务器现在大概有四种其中三种都不是服务器&#34;&gt;Ex2: 服务器现在大概有四种(其中三种都不是服务器)&lt;/a&gt;
+              &lt;ul&gt;
+                &lt;li&gt;&lt;a href=&#34;#43642-使用缓存&#34;&gt;4.3.6.4.2 使用缓存&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex3-为什么seo培训效果不好-我觉得是两个问题&#34;&gt;Ex3: 为什么SEO培训效果不好? 我觉得是两个问题:&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex4-缓存是什么&#34;&gt;Ex4: 缓存是什么?&lt;/a&gt;
+              &lt;ul&gt;
+                &lt;li&gt;&lt;a href=&#34;#43643-降低加载量图片压缩优化-视频调用-缩减页面篇幅-压缩代码等&#34;&gt;4.3.6.4.3 降低加载量(图片压缩、优化, 视频调用, 缩减页面篇幅, 压缩代码等)&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4365-代码优化&#34;&gt;4.3.6.5 代码优化&lt;/a&gt;
+              &lt;ul&gt;
+                &lt;li&gt;&lt;a href=&#34;#43651-为什么要优化js和css呢&#34;&gt;4.3.6.5.1 为什么要优化JS和CSS呢?&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&#34;#43652-如何优化js和css&#34;&gt;4.3.6.5.2 如何优化JS和CSS?&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#437-网站结构url目录导航内链面包屑&#34;&gt;4.3.7 网站结构、URL、目录导航、内链、面包屑&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4371-网站结构大概可以分为三类&#34;&gt;4.3.7.1 网站结构大概可以分为三类&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4372-网站重复度&#34;&gt;4.3.7.2 网站重复度&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4373-结构化标记数据&#34;&gt;4.3.7.3 结构化标记数据&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4374-ssl证书&#34;&gt;4.3.7.4 SSL证书&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#44-内容价值&#34;&gt;4.4 内容价值&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#441-什么是有价值的内容&#34;&gt;4.4.1 什么是有价值的内容?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#442-如何创作有价值的内容&#34;&gt;4.4.2 如何创作有价值的内容?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#45-内容营销&#34;&gt;4.5 内容营销&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#之所以坚持转载&#34;&gt;之所以坚持转载&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

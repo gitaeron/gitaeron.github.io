@@ -5,15 +5,6 @@
     <link>https://gitaeron.github.io/en/series/</link>
     <description>Recent content in Series on Aeron&#39;s Tiny Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Apr 2023 22:40:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Music Recommendation</title>
-      <link>https://gitaeron.github.io/en/series/music-recommendation/</link>
-      <pubDate>Wed, 12 Apr 2023 22:40:00 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/en/series/music-recommendation/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://gitaeron.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

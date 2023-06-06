@@ -5,6 +5,7 @@
     <link>https://gitaeron.github.io/tags/tensorflow/</link>
     <description>Recent content in Tensorflow on 澜长生</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 04 Jan 2023 14:16:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
