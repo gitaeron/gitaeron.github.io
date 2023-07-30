@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on 月下影成双</title>
+    <link>https://gitaeron.github.io/article/</link>
+    <description>Recent content in Articles on 月下影成双</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Jul 2023 23:00:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一篇文章讲透SEO - Chapter 6</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter6/</link>
+      <pubDate>Sun, 30 Jul 2023 23:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter6/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-rankbrain&#34;&gt;6. Rankbrain&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#61-rankbrain说明&#34;&gt;6.1 Rankbrain说明&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#62-用户体验因素&#34;&gt;6.2 用户体验因素&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-品牌因素&#34;&gt;7. 品牌因素&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#71-品牌建设建议&#34;&gt;7.1 品牌建设建议&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#72-信任度建设方&#34;&gt;7.2 信任度建设方&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-其他因素惩罚因素本地排名语音排名eat新鲜度&#34;&gt;8. 其他因素(惩罚因素,本地排名,语音排名,EAT,新鲜度)&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#81-避免惩罚&#34;&gt;8.1 避免惩罚&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#82-本地排名&#34;&gt;8.2 本地排名&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#83-语音排名&#34;&gt;8.3 语音排名&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#84-eat&#34;&gt;8.4 EAT&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#85-新鲜度&#34;&gt;8.5 新鲜度&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#9-seo工具&#34;&gt;9. SEO工具&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>一篇文章讲透SEO - Chapter 5</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter5/</link>
+      <pubDate>Sun, 30 Jul 2023 22:50:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter5/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-外链&#34;&gt;5. 外链&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#51-什么是外链&#34;&gt;5.1 什么是外链&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#52-为何外链成为了排名的重要影响因素&#34;&gt;5.2 为何外链成为了排名的重要影响因素&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#53-外链建设应该注意哪些细节&#34;&gt;5.3 外链建设应该注意哪些细节&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#54-外链形式&#34;&gt;5.4 外链形式&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#55-外链属性设置&#34;&gt;5.5 外链属性设置&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#56-白帽黑帽灰帽-选哪个&#34;&gt;5.6 白帽,黑帽,灰帽, 选哪个?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#57-竞争对手外链分析&#34;&gt;5.7 竞争对手外链分析&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#571-如何分析竞争对手外链&#34;&gt;5.7.1 如何分析竞争对手外链?&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#58-外链类型&#34;&gt;5.8 外链类型&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#59-外链操作方法&#34;&gt;5.9 外链操作方法&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#591-外链购买&#34;&gt;5.9.1 外链购买&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#592-软件发布&#34;&gt;5.9.2 软件发布&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#593-手工操作&#34;&gt;5.9.3 手工操作&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>一篇文章讲透SEO - Chapter 4</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter4/</link>
+      <pubDate>Sun, 30 Jul 2023 22:35:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter4/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#43-tech-seo&#34;&gt;4.3 Tech SEO&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#431-服务器&#34;&gt;4.3.1 服务器&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#432-域名&#34;&gt;4.3.2 域名&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex1-服务器和域名对seo有哪些影响&#34;&gt;Ex1: 服务器和域名对SEO有哪些影响&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#433-移动端体验&#34;&gt;4.3.3 移动端体验&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#434-抓取与收录&#34;&gt;4.3.4 抓取与收录&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#435-死链接或错误页面&#34;&gt;4.3.5 死链接或错误页面&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4351-如何解决失效链接&#34;&gt;4.3.5.1 如何解决失效链接?&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4352-如何做重定向&#34;&gt;4.3.5.2 如何做重定向?&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#436-网站速度&#34;&gt;4.3.6 网站速度&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4361-突发性速度问题&#34;&gt;4.3.6.1 突发性速度问题&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4362-常规速度问题&#34;&gt;4.3.6.2 常规速度问题&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4363-core-web-vitals核心网络体征四个指标&#34;&gt;4.3.6.3 Core Web Vitals(核心网络体征)四个指标&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4364-如何提升速度&#34;&gt;4.3.6.4 如何提升速度&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex2-服务器现在大概有四种-其中三种都不是服务器&#34;&gt;Ex2: 服务器现在大概有四种 (其中三种都不是服务器)&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4365-使用缓存&#34;&gt;4.3.6.5 使用缓存&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex3-为什么seo培训效果不好-我觉得是两个问题&#34;&gt;Ex3: 为什么SEO培训效果不好? 我觉得是两个问题:&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#ex4-缓存是什么&#34;&gt;Ex4: 缓存是什么?&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4366-降低加载量-图片压缩优化-视频调用-缩减页面篇幅-压缩代码等&#34;&gt;4.3.6.6 降低加载量 (图片压缩、优化, 视频调用, 缩减页面篇幅, 压缩代码等)&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4367-代码优化&#34;&gt;4.3.6.7 代码优化&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#437-网站结构-url-内链-面包屑&#34;&gt;4.3.7 网站结构 (URL, 内链, 面包屑)&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#4371-网站结构大概可以分为三类&#34;&gt;4.3.7.1 网站结构大概可以分为三类&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4372-内链-面包屑导航&#34;&gt;4.3.7.2 内链, 面包屑导航&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4373-网站重复度&#34;&gt;4.3.7.3 网站重复度&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4374-结构化标记数据&#34;&gt;4.3.7.4 结构化标记数据&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#4375-ssl证书&#34;&gt;4.3.7.5 SSL证书&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#44-内容价值&#34;&gt;4.4 内容价值&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#441-什么是有价值的内容&#34;&gt;4.4.1 什么是有价值的内容?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#442-如何创作有价值的内容&#34;&gt;4.4.2 如何创作有价值的内容?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#45-内容营销&#34;&gt;4.5 内容营销&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>一篇文章讲透SEO - Chapter 3</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter3/</link>
+      <pubDate>Sun, 30 Jul 2023 22:30:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter3/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-内容&#34;&gt;4. 内容&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-内容的概念&#34;&gt;4.1 内容的概念&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#42-核心词on-page-seo&#34;&gt;4.2 核心词－On page SEO&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#421-关键词覆盖&#34;&gt;4.2.1 关键词覆盖&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#422-关键词表分析&#34;&gt;4.2.2 关键词表分析&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#423-关键词表总结&#34;&gt;4.2.3 关键词表总结&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#424-lsi关键词&#34;&gt;4.2.4 LSI关键词&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#425-创作内容覆盖关键词案例&#34;&gt;4.2.5 创作内容覆盖关键词案例&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#426-关键词覆盖规则&#34;&gt;4.2.6 关键词覆盖规则&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#427-pbc写作技巧&#34;&gt;4.2.7 PBC写作技巧&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>一篇文章讲透SEO - Chapter 2</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter2/</link>
+      <pubDate>Sun, 30 Jul 2023 22:25:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter2/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-关键词&#34;&gt;3. 关键词&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#31-所以关键词有两点&#34;&gt;3.1 所以关键词有两点:&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#32-如何确认关键词是否准确&#34;&gt;3.2 如何确认关键词是否准确?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#33-如何找同义词近义词及长尾词&#34;&gt;3.3 如何找同义词、近义词及长尾词?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#34-如何找全关键词&#34;&gt;3.4 如何找全关键词?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#35-如何找全归类&#34;&gt;3.5 如何找全归类?&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>一篇文章讲透SEO - Chapter 1</title>
+      <link>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter1/</link>
+      <pubDate>Sun, 30 Jul 2023 22:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter1/</guid>
+      <description>&lt;p&gt;一篇文章能把谷歌SEO全部讲清楚吗? 我的目标是把自己11年的SEO优化经验梳理一遍, 用最易懂(尽可能)的话, 把容易讲出来的所有知识总结出来, 并力求前因后果明明白白.&lt;/p&gt;
+&lt;p&gt;本系列的其他教程在最底部, 可以点击底部的链接进行跳转.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本文大纲 - 点击跳转&lt;/strong&gt;&lt;/p&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-谷歌seo优化概念&#34;&gt;1. 谷歌SEO优化概念&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-搜索引擎极简原理&#34;&gt;2. 搜索引擎极简原理&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#21-工作原理&#34;&gt;2.1 工作原理&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#22-抓取和索引&#34;&gt;2.2 抓取和索引&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#23-收录查询&#34;&gt;2.3 收录查询&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#24-sitemap&#34;&gt;2.4 Sitemap&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#25-收录促进&#34;&gt;2.5 收录促进&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#26-拒绝抓取与索引-robotstxtnoindex&#34;&gt;2.6 拒绝抓取与索引: Robots.txt/noindex&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer--copyright&#34;&gt;Refer &amp;amp; Copyright&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#一篇文章讲透seo系列&#34;&gt;一篇文章讲透SEO系列&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Bilberry Theme</title>
+      <link>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</guid>
+      <description>&lt;p&gt;您将在 &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;官方Github存储库&lt;/a&gt; 中找到所有有关如何在您的Hugo网站中设置此主题的信息.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pyttsx3 setProperty IndexError</title>
+      <link>https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/</guid>
+      <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#为什么会发生这个错误&#34;&gt;为什么会发生这个错误&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#如何解决&#34;&gt;如何解决&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#另一种情况&#34;&gt;另一种情况&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>pip 国内源</title>
+      <link>https://gitaeron.github.io/article/2023/april/pip-source/</link>
+      <pubDate>Mon, 03 Apr 2023 21:00:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/april/pip-source/</guid>
+      <description>&lt;p&gt;pip国内的一些镜像&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;中国科技大学&lt;/p&gt;
+&lt;p&gt;-i &lt;a href=&#34;https://pypi.mirrors.ustc.edu.cn/simple/&#34;&gt;https://pypi.mirrors.ustc.edu.cn/simple/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;proxy=127.0.0.1:1&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>旅途加油站 - 什么是真实 - 分享一段应该有人在你青春年少时对你说的话</title>
+      <link>https://gitaeron.github.io/article/2023/january/what-is-the-reality/</link>
+      <pubDate>Thu, 19 Jan 2023 21:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/january/what-is-the-reality/</guid>
+      <description>&lt;p&gt;来源: 无问西东(电影)(电影还行, 因人而异, 推荐观看, 不浪费你的2小时. 三条主线, 从前代, 二战时代与现代平行, 却又有着联系)&lt;/p&gt;
+&lt;p&gt;背景: 一位文学上颇有天赋的年轻人, 在进入清华大学时缺选择了理科系, 次次考试位于不列(不合格, 不及格 倒数第一或倒数第二), 终于在一段时间后选择了转院去文科系.&lt;/p&gt;
+&lt;p&gt;这一段话便是源自(电影中)这位青年与清华大学文科系的院长谈话, 下面简称院长与青年, 希望你能认真阅读一二, 并且包含末尾笔者本人的一些话.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conda环境中 Tensorflow 与 CPU 和 GPU 的问题</title>
+      <link>https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/</link>
+      <pubDate>Wed, 04 Jan 2023 14:16:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/</guid>
+      <description>&lt;h1 id=&#34;首先&#34;&gt;首先&lt;/h1&gt;
+&lt;p&gt;这两天一直在解决 conda(我用的是miniconda) 环境中 &lt;code&gt;Tensorflow&lt;/code&gt; 使用 CPU 和 GPU 的问题, 主要是关于 GPU.&lt;/p&gt;
+&lt;p&gt;这一篇文章想对这些问题总结, 攥写一篇心得.&lt;/p&gt;
+&lt;p&gt;放心, 不是网络上各种文章的copy, 我反而希望你是在尝试了主流文章后无法解决的情况下看到这篇文章.&lt;/p&gt;
+&lt;p&gt;当然有引用的内容会注明来源(没什么引用,纯个人经验), 但是我相信这篇文章可以解决你所碰到的相同的问题.&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-conda环境&#34;&gt;1. conda环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-宿主机外部-cuda--cudnn&#34;&gt;2. 宿主机外部 CUDA &amp;amp; cudnn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3-conda虚拟环境内部-cuda--cudnn&#34;&gt;3. conda虚拟环境内部 CUDA &amp;amp; cudnn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-定位问题并解决问题&#34;&gt;4. 定位问题并解决问题&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tips-若你只有5分钟-那么止步于此吧-以下是进阶内容&#34;&gt;Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#5-你会碰到一个问题&#34;&gt;5. 你会碰到一个问题&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#6-pip-install-tensorflow&#34;&gt;6. pip install tensorflow&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#7-如果你想指定-cpugpu&#34;&gt;7. 如果你想指定 CPU/GPU&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#8-经过测试的构建配置&#34;&gt;8. 经过测试的构建配置&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#refer&#34;&gt;Refer&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>基础语法 -- 并列句</title>
+      <link>https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/</link>
+      <pubDate>Wed, 07 Dec 2022 18:40:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/</guid>
+      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#并列句&#34;&gt;并列句&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#常见的连词&#34;&gt;常见的连词&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#并列句在写作中的使用&#34;&gt;并列句在写作中的使用&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>多语言下使用 `series` 出现 issue 及多语言造成的未预期行为</title>
+      <link>https://gitaeron.github.io/article/2022/november/multilan-series-issue/</link>
+      <pubDate>Tue, 06 Dec 2022 17:08:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2022/november/multilan-series-issue/</guid>
+      <description>&lt;p&gt;已在该版本 &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0 中被修复.&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#首先&#34;&gt;首先&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#环境&#34;&gt;环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#发生了什么-&#34;&gt;发生了什么 ?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#未预期行为&#34;&gt;未预期行为&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#结论&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>基础语法 -- 简单句</title>
+      <link>https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/</link>
+      <pubDate>Mon, 05 Dec 2022 00:09:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/</guid>
+      <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#一-简单句&#34;&gt;一 简单句&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#二-简单句的分类&#34;&gt;二 简单句的分类&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#三-句子的成分&#34;&gt;三 句子的成分&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-谓语&#34;&gt;1. 谓语&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#11-有时态的实义动词和系动词充当谓语&#34;&gt;1.1 有时态的实义动词和系动词充当谓语&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#12-动词能不能多&#34;&gt;1.2 动词能不能多&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#13-动词能不能少&#34;&gt;1.3 动词能不能少&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#14-谓语的总结&#34;&gt;1.4 谓语的总结&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2-主语&#34;&gt;2. 主语&lt;/a&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&#34;#21-主语的成分&#34;&gt;2.1 主语的成分&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;#22-主语能不能少&#34;&gt;2.2 主语能不能少&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#3-宾语&#34;&gt;3. 宾语&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#4-表语&#34;&gt;4. 表语&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#四-简单句在写作中的使用&#34;&gt;四 简单句在写作中的使用&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>运行 `hugo server` 期间出现的预览问题</title>
+      <link>https://gitaeron.github.io/article/2022/november/hugo-server/</link>
+      <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/article/2022/november/hugo-server/</guid>
+      <description>&lt;h1 id=&#34;发生了什么&#34;&gt;发生了什么&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 期间, 发现了部分操作导致出现404页面.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在运行 &lt;code&gt;hugo server&lt;/code&gt; 时, 当你修改了一篇文章的 &lt;code&gt;categories&lt;/code&gt; 或者 &lt;code&gt;tags&lt;/code&gt; 时, 你通过任何途径点击修改后的 &lt;code&gt;categories&lt;/code&gt; 和 &lt;code&gt;tags&lt;/code&gt; 都会出现访问的页面404.&lt;/p&gt;
+&lt;h1 id=&#34;多图警告&#34;&gt;多图警告&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

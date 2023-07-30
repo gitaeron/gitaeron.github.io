@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Aeron Atlantis</title>
+    <link>https://gitaeron.github.io/en/author/</link>
+    <description>Recent content in Author on Aeron Atlantis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lednerb</title>
+      <link>https://gitaeron.github.io/en/author/lednerb/</link>
+      <pubDate>Thu, 18 May 2023 15:32:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/author/lednerb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aeron</title>
+      <link>https://gitaeron.github.io/en/author/aeron/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/author/aeron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hu Shi</title>
+      <link>https://gitaeron.github.io/en/author/hu-shi/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/author/hu-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward Snowden</title>
+      <link>https://gitaeron.github.io/en/author/edward-snowden/</link>
+      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/author/edward-snowden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

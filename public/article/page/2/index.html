@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+
+
+  
+<html itemscope itemtype="https://schema.org/WebPage" class="no-js" lang="zh-cn">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="siteBaseUrl" content="https://gitaeron.github.io/">
+    <meta name="author" content="Aeron">
+    <meta name="description" content="My Tiny Blog.">
+    <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
+    <meta name="generator" content="Hugo 0.105.0">
+    <title>
+        
+           
+               Articles &vert; 月下影成双
+           
+        
+    </title>
+    <meta itemprop="name" content="Articles">
+    <meta itemprop="description" content="Articles - My Tiny Blog.">
+    <meta property="og:site_name" content="月下影成双">
+
+    <meta property="og:title" content="Articles" />
+<meta property="og:description" content="My Tiny Blog." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://gitaeron.github.io/article/" /><meta property="og:site_name" content="月下影成双" />
+
+
+
+    
+
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="/favicon_io/site.webmanifest">
+
+
+    
+    <link href="https://gitaeron.github.io/article/index.xml" rel="alternate" type="application/rss+xml" title="月下影成双" />
+    <link href="https://gitaeron.github.io/article/index.xml" rel="feed" type="application/rss+xml" title="月下影成双" />
+    
+
+    
+    <link rel="canonical" href="https://gitaeron.github.io/article/">
+    
+
+    
+
+
+
+    
+    <link rel="stylesheet" href="https://gitaeron.github.io/theme.min.70168d55f2a7016525113196d85567baef5fcb440c481a70f201de1d3083067d.css" integrity="sha256-cBaNVfKnAWUlETGW2FVnuu9fy0QMSBpw8gHeHTCDBn0=" media="screen">
+
+
+
+    
+
+
+
+    
+
+    
+</head>
+
+<body class="bilberry-hugo-theme">
+    
+
+    
+    <nav class="permanentTopNav sticky">
+
+    <div class="container">
+        <ul class="topnav">
+            
+                
+                
+                    <li><a href="/"
+                           target="_self">Home</a></li>
+                
+            
+                
+                
+                    <li><a href="https://github.com/gitaeron/gitaeron.github.io/"
+                           target="_blank">Read Me</a></li>
+                
+            
+                
+                
+                    <li><a href="/categories/"
+                           target="_blank">Categoies</a></li>
+                
+            
+                
+                
+                    <li><a href="/tags/"
+                           target="_blank">Tags</a></li>
+                
+            
+        </ul>
+
+        
+            <div id="search-box" class="search">
+                <i class="fas fa-search"></i>
+                <input id="search" type="text" placeholder="搜索……">
+            </div>
+        
+    </div>
+</nav>
+
+
+    
+    <header class="sticky">
+
+    <a id="back-to-top-button">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <div class="container">
+        <div class="logo">
+            <a href="/" class="logo">
+                
+                    <img src="/custom_img/author/pic.png" alt="">
+                
+
+                <span class="overlay"><i class="fa fa-home"></i></span>
+            </a>
+        </div>
+        <div class="titles">
+            <h3 class="title">
+                <a href="/">
+                    月下影成双
+                </a>
+            </h3>
+
+            
+                <span class="subtitle">Like the meeting of the seagulls and the waves we meet and come near. The seagulls fly off and the waves roll away we depart.</span>
+            
+        </div>
+
+        <div class="languages">
+            
+                
+                
+                  
+                
+
+                
+                    <a href="/article/" class="active">zh-cn</a>
+                
+            
+                
+                
+                  
+                
+
+                
+                    <a href="/en/article/">en</a>
+                
+            
+            </div>
+        
+
+        
+            <div class="toggler permanentTopNav">
+        
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </div>
+    </div>
+    </div>
+</header>
+
+
+    <div class="main container">
+        
+    
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/">
+            Conda环境中 Tensorflow 与 CPU 和 GPU 的问题
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2023-01-04</span>
+            
+        
+
+        
+            
+                <span class="readingTime">需要 15 分钟阅读</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://gitaeron.github.io/author/%E6%BE%9C%E9%95%BF%E7%94%9F/">澜长生</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <h1 id="首先">首先</h1>
+<p>这两天一直在解决 conda(我用的是miniconda) 环境中 <code>Tensorflow</code> 使用 CPU 和 GPU 的问题, 主要是关于 GPU.</p>
+<p>这一篇文章想对这些问题总结, 攥写一篇心得.</p>
+<p>放心, 不是网络上各种文章的copy, 我反而希望你是在尝试了主流文章后无法解决的情况下看到这篇文章.</p>
+<p>当然有引用的内容会注明来源(没什么引用,纯个人经验), 但是我相信这篇文章可以解决你所碰到的相同的问题.</p>
+<hr>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-conda环境">1. conda环境</a></li>
+    <li><a href="#2-宿主机外部-cuda--cudnn">2. 宿主机外部 CUDA &amp; cudnn</a></li>
+    <li><a href="#3-conda虚拟环境内部-cuda--cudnn">3. conda虚拟环境内部 CUDA &amp; cudnn</a></li>
+    <li><a href="#4-定位问题并解决问题">4. 定位问题并解决问题</a></li>
+    <li><a href="#tips-若你只有5分钟-那么止步于此吧-以下是进阶内容">Tips: 若你只有5分钟, 那么止步于此吧, 以下是进阶内容</a></li>
+    <li><a href="#5-你会碰到一个问题">5. 你会碰到一个问题</a></li>
+    <li><a href="#6-pip-install-tensorflow">6. pip install tensorflow</a></li>
+    <li><a href="#7-如果你想指定-cpugpu">7. 如果你想指定 CPU/GPU</a></li>
+    <li><a href="#8-经过测试的构建配置">8. 经过测试的构建配置</a></li>
+    <li><a href="#refer">Refer</a></li>
+  </ul>
+</nav>
+
+        
+            <a href="https://gitaeron.github.io/article/2023/january/tensorflow-issue-gpu/" class="more">继续阅读</a>
+        
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://gitaeron.github.io/tags/tensorflow/">Tensorflow</a>
+                    
+                
+                    
+                    
+                    <a href="https://gitaeron.github.io/tags/artificial-intelligence/">Artificial-Intelligence</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+            
+        </div>
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/">
+            基础语法 -- 并列句
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2022-12-07</span>
+            
+        
+
+        
+            
+                <span class="readingTime">需要 8 分钟阅读</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://gitaeron.github.io/categories/learning-english/">Learning English</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://gitaeron.github.io/author/%E6%BE%9C%E9%95%BF%E7%94%9F/">澜长生</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#并列句">并列句</a></li>
+    <li><a href="#常见的连词">常见的连词</a></li>
+    <li><a href="#并列句在写作中的使用">并列句在写作中的使用</a></li>
+  </ul>
+</nav>
+
+        
+            <a href="https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/" class="more">继续阅读</a>
+        
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+            
+        </div>
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://gitaeron.github.io/article/2022/november/multilan-series-issue/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://gitaeron.github.io/article/2022/november/multilan-series-issue/">
+            多语言下使用 `series` 出现 issue 及多语言造成的未预期行为
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2022-12-06</span>
+            
+        
+
+        
+            
+                <span class="readingTime">需要 6 分钟阅读</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://gitaeron.github.io/author/%E6%BE%9C%E9%95%BF%E7%94%9F/">澜长生</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <p>已在该版本 <code>bilberry-hugo-theme</code> @v3.15.0 中被修复.</p>
+<hr>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#首先">首先</a></li>
+    <li><a href="#环境">环境</a></li>
+    <li><a href="#发生了什么-">发生了什么 ?</a></li>
+    <li><a href="#未预期行为">未预期行为</a></li>
+    <li><a href="#结论">结论</a></li>
+  </ul>
+</nav>
+
+        
+            <a href="https://gitaeron.github.io/article/2022/november/multilan-series-issue/" class="more">继续阅读</a>
+        
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://gitaeron.github.io/tags/bilberry-theme/">Bilberry Theme</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="https://gitaeron.github.io/en/article/2022/november/multilan-series-issue/">en</a>
+            
+        </div>
+    </div>
+    
+</div>
+
+</article>
+
+            
+        </div>
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/">
+            基础语法 -- 简单句
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2022-12-05</span>
+            
+        
+
+        
+            
+                <span class="readingTime">需要 8 分钟阅读</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://gitaeron.github.io/categories/learning-english/">Learning English</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://gitaeron.github.io/author/%E6%BE%9C%E9%95%BF%E7%94%9F/">澜长生</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#一-简单句">一 简单句</a></li>
+    <li><a href="#二-简单句的分类">二 简单句的分类</a></li>
+    <li><a href="#三-句子的成分">三 句子的成分</a>
+      <ul>
+        <li><a href="#1-谓语">1. 谓语</a>
+          <ul>
+            <li><a href="#11-有时态的实义动词和系动词充当谓语">1.1 有时态的实义动词和系动词充当谓语</a></li>
+            <li><a href="#12-动词能不能多">1.2 动词能不能多</a></li>
+            <li><a href="#13-动词能不能少">1.3 动词能不能少</a></li>
+            <li><a href="#14-谓语的总结">1.4 谓语的总结</a></li>
+          </ul>
+        </li>
+        <li><a href="#2-主语">2. 主语</a>
+          <ul>
+            <li><a href="#21-主语的成分">2.1 主语的成分</a></li>
+            <li><a href="#22-主语能不能少">2.2 主语能不能少</a></li>
+          </ul>
+        </li>
+        <li><a href="#3-宾语">3. 宾语</a></li>
+        <li><a href="#4-表语">4. 表语</a></li>
+      </ul>
+    </li>
+    <li><a href="#四-简单句在写作中的使用">四 简单句在写作中的使用</a></li>
+  </ul>
+</nav>
+
+        
+            <a href="https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/" class="more">继续阅读</a>
+        
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+            
+        </div>
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://gitaeron.github.io/article/2022/november/hugo-server/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://gitaeron.github.io/article/2022/november/hugo-server/">
+            运行 `hugo server` 期间出现的预览问题
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2022-11-27</span>
+            
+        
+
+        
+            
+                <span class="readingTime">需要 5 分钟阅读</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://gitaeron.github.io/categories/%E6%8A%80%E6%9C%AF/">技术</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://gitaeron.github.io/author/%E6%BE%9C%E9%95%BF%E7%94%9F/">澜长生</a>
+                
+            </span>
+        
+    </div>
+
+    
+        <h1 id="发生了什么">发生了什么</h1>
+<ul>
+<li>在运行 <code>hugo server</code> 期间, 发现了部分操作导致出现404页面.</li>
+</ul>
+<p>在运行 <code>hugo server</code> 时, 当你修改了一篇文章的 <code>categories</code> 或者 <code>tags</code> 时, 你通过任何途径点击修改后的 <code>categories</code> 和 <code>tags</code> 都会出现访问的页面404.</p>
+<h1 id="多图警告">多图警告</h1>
+
+        
+            <a href="https://gitaeron.github.io/article/2022/november/hugo-server/" class="more">继续阅读</a>
+        
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://gitaeron.github.io/tags/hugo/">Hugo</a>
+                    
+                
+                    
+                    
+                    <a href="https://gitaeron.github.io/tags/bilberry-theme/">Bilberry Theme</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+    <div class="languages">
+        <i class="fa fa-language"></i>
+        <div class="links">
+            
+                <a href="https://gitaeron.github.io/en/article/2022/november/hugo-server/">en</a>
+            
+        </div>
+    </div>
+    
+</div>
+
+</article>
+
+            
+        </div>
+    
+
+    
+    <div class="paginator">
+        
+
+        
+            <a href="/article/" class="newer">较新的帖子 <i class="fa fa-angle-double-right"></i></a>
+        
+    </div>
+
+
+
+    </div>
+
+    
+<footer>
+    <div class="container">
+
+        
+        <div class="recent-posts">
+            <strong>最新帖子</strong>
+            <ul>
+                
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter6/">一篇文章讲透SEO - Chapter 6</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter5/">一篇文章讲透SEO - Chapter 5</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter4/">一篇文章讲透SEO - Chapter 4</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter3/">一篇文章讲透SEO - Chapter 3</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter2/">一篇文章讲透SEO - Chapter 2</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/july/seo-tutorial-chapter1/">一篇文章讲透SEO - Chapter 1</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/">Installing Bilberry Theme</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/april/pyttsx3-setproperty-indexerror/">pyttsx3 setProperty IndexError</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/video/youtube-music/boxes-gavin-james/">Gavin James - Boxes</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://gitaeron.github.io/article/2023/april/pip-source/">pip 国内源</a>
+                    </li>
+                
+            </ul>
+        </div>
+        
+
+        
+        <div class="categories">
+            <a href="/categories/"><strong>分类</strong></a>
+            <ul>
+                
+                <li>
+                    <a href="/categories/%E6%8A%80%E6%9C%AF">技术
+                        (7)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/seo-tutorial">Seo tutorial
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/youtube-music">Youtube music
+                        (5)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%BF%87%E7%94%9F%E6%AD%BB%E4%B9%8B%E9%97%B4%E7%BB%8F%E5%8E%86%E7%9A%84%E8%BF%99%E6%AE%B5%E8%B7%AF%E7%A8%8B">人生不过生死之间经历的这段路程
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/learning-english">Learning english
+                        (2)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/%E6%95%99%E7%A8%8B">教程
+                        (1)</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+        
+        
+        
+        <div class="tags">
+            <a href="/tags/"><strong>标签</strong></a>
+            <ul>
+                
+                <li>
+                    <a href="/tags/seo">Seo
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/%E6%95%99%E7%A8%8B">教程
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/%E8%BD%AC%E8%BD%BD">转载
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/youtube-music">Youtube music
+                        (5)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/bilberry-theme">Bilberry theme
+                        (3)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/hugo">Hugo
+                        (2)</a>
+                </li>
+                
+                <li>
+                    <a href="/tags/%E4%BA%BA%E7%94%9F">人生
+                        (2)</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="right">
+            
+            <div class="external-profiles">
+                <strong>社交媒体</strong>
+
+                
+                <a href="http://scr.im/aeron" target="_blank" rel=""><em class="fas fa-envelope"></em></a>
+                
+                <a href="https://github.com/gitaeron/gitaeron.github.io/" target="_blank" rel=""><em class="fab fa-github"></em></a>
+                
+                <a href="https://discordapp.com/users/Aeron.Atlantis#2648" target="_blank" rel=""><em class="fab fa-discord"></em></a>
+                
+            </div>
+            
+
+            <div class="languages">
+                <strong>其他语言</strong>
+                
+                
+                
+                <a href="https://gitaeron.github.io/" class="active">zh-cn</a>
+                
+                
+                
+                <a href="https://gitaeron.github.io/en/">en</a>
+                
+                
+            </div>
+            
+
+            
+            <div class="archive">
+                <a href="/archive/"><strong>Archive</strong></a>
+            </div>
+            
+        </div>
+    </div>
+</footer>
+
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="https://github.com/gitaeron/gitaeron.github.io" target="_blank">
+                &copy;
+                
+                2023
+                
+                by Aeron-Atlantis
+            </a>
+            -
+            <a href="https://gitaeron.github.io/article/index.xml">RSS</a>
+        </div>
+        <div class="author">
+            <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+                target="_blank">Most Content Under CC-BY-NC-SA</a>
+        </div>
+    </div>
+</div>
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4V01L7ZD0P"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-4V01L7ZD0P', { 'anonymize_ip': false });
+}
+</script>
+
+
+    
+        
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$','$'], ['\\(','\\)']]}
+        });
+</script>
+
+    
+
+    
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+    
+    
+    
+
+
+
+    
+    
+
+
+
+
+
+
+
+    
+    <script src="https://gitaeron.github.io/theme.min.3eab3b7c8747b104774a07cb5fb21c55e185cddaa0a941eaa6588acb51729b20.js" integrity="sha256-Pqs7fIdHsQR3SgfLX7IcVeGFzdqgqUHqpliKy1FymyA="></script>
+
+
+
+    
+
+
+
+    
+        <div id="activate-algolia-search" class="hidden">
+  <input type="hidden" id="algolia-search-appId" value="7G1RL7872T">
+  <input type="hidden" id="algolia-search-apiKey" value="345962b42c6bd0887737ec3508c2dcd9">
+  <input type="hidden" id="algolia-search-indexName" value="gitaeron">
+  <input type="hidden" id="algolia-search-noSearchResults" value="什么都没找到。">
+
+  
+  <input type="hidden" id="algolia-search-currentLanguageOnly">
+  
+</div>
+
+    
+
+    
+</body>
+
+</html>

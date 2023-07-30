@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aeron on Aeron Atlantis</title>
+    <link>https://gitaeron.github.io/en/author/aeron/</link>
+    <description>Recent content in Aeron on Aeron Atlantis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/author/aeron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pyttsx3 setProperty IndexError</title>
+      <link>https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/</link>
+      <pubDate>Tue, 18 Apr 2023 21:55:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/2023/april/pyttsx3-setproperty-indexerror/</guid>
+      <description>&lt;h1 id=&#34;indexerror-with-setpropertyvoice-value&#34;&gt;IndexError with setProperty(&amp;lsquo;voice&amp;rsquo;, value)&lt;/h1&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-does-this-error-occur&#34;&gt;Why does this error occur&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#how-to-solve&#34;&gt;How to Solve&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#another-scenario&#34;&gt;Another scenario&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>An issue caused by using `series` with Multi Language and cause unexpected behavior</title>
+      <link>https://gitaeron.github.io/en/article/2022/november/multilan-series-issue/</link>
+      <pubDate>Wed, 30 Nov 2022 04:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/2022/november/multilan-series-issue/</guid>
+      <description>&lt;p&gt;Now It&amp;rsquo;s fixed at &lt;code&gt;bilberry-hugo-theme&lt;/code&gt; @v3.15.0&lt;/p&gt;
+&lt;hr&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#first-of-all&#34;&gt;First of all&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#environment&#34;&gt;Environment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-happened-&#34;&gt;What happened ?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#unexpected-behavior&#34;&gt;Unexpected behavior&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;</description>
+    </item>
+    
+    <item>
+      <title>Previews problem while running hugo server</title>
+      <link>https://gitaeron.github.io/en/article/2022/november/hugo-server/</link>
+      <pubDate>Sun, 27 Nov 2022 16:44:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/article/2022/november/hugo-server/</guid>
+      <description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened&lt;/h1&gt;
+&lt;p&gt;There&amp;rsquo;s some operation caused 404 page while running &lt;code&gt;hugo server&lt;/code&gt; .&lt;/p&gt;
+&lt;p&gt;Once you changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt; during running &lt;code&gt;hugo server&lt;/code&gt; , browser&amp;rsquo;ll jumped to 404 page after you click the changed &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;multiple-pictures-contained&#34;&gt;Multiple pictures contained&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
