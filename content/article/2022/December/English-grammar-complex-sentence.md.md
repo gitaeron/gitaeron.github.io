@@ -6,7 +6,7 @@ draft: true
 
 author: "澜长生"
 categories: ["Learning English"]
-tags: ["英语语法 - 句法"]
+tags: ["英语语法 - 句法","MathJax"]
 
 readingTime: 8
 ---
