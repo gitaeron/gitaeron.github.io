@@ -28,7 +28,7 @@ tags: ["创业","转载"]
 
 昨天朋友帮我推广我的小册子, 下面有一条评论, 看到挺感概的.
 
-![avatar](https://gitaeron.github.io/article_image12023/August/start-a-business-1-1.jpg)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/August/start-a-business-1-1.jpg)
 
 如果在五年前, 我绝对赞同你的观点.
 
@@ -96,7 +96,7 @@ tags: ["创业","转载"]
 
 就是如下图所示的评价：
 
-![avatar](https://gitaeron.github.io/article_image12023/August/start-a-business-1-1.jpg)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/August/start-a-business-1-1.jpg)
 
 别人都做过了, 你还能做成?
 
@@ -124,7 +124,7 @@ tags: ["创业","转载"]
 
 ---
 
-![avatar](https://gitaeron.github.io/article_image12023/August/start-a-business-1-2.jpg)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/August/start-a-business-1-2.jpg)
 
 > 如果一个领域, 一波人做起来以后, 后来者就做不起来了, 那我是不建议你从事这个领域, 作为工作可以, 作为副业? 还是算了吧.
 
@@ -140,7 +140,7 @@ tags: ["创业","转载"]
 
 “敢为天下后”!
 
-![avatar](https://gitaeron.github.io/article_image12023/August/start-a-business-1-3.jpg)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/August/start-a-business-1-3.jpg)
 
 就是这个理论, 让我做公众号, 一年做到了十万粉丝! 而且是计算机垂直方向! 也正是这个理论, 让我在从vivo离职后, 选择做直播, 现在几个直播间, 也都有了不错的现金流. 也是正是这个理论, 让我自由职业两年, 每年的收入并不比工作时的少!
 
@@ -192,7 +192,7 @@ tags: ["创业","转载"]
 
 目前,小册子已经更新了39篇文章,会持续更新到2024年3月31日
 
-![avatar](https://gitaeron.github.io/article_image12023/August/start-a-business-1-4.jpg)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/August/start-a-business-1-4.jpg)
 
 只要找到方法,不经历风雨,也能看得彩虹.
 

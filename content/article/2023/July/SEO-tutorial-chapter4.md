@@ -101,7 +101,7 @@ Tech SEO可以分为这么几个部分:
 
 这里放一张十分经典的三色图
 
-![avatar](https://gitaeron.github.io/article_image/2023/july/SEO-tutorial-chapter4-img1.png)
+![avatar](https://github.com/gitaeron/gitaeron.github.io/blob/main/static/article_image/2023/July/SEO-tutorial-chapter4-img1.png)
 
 ---
 
