@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pyttsx3 on 澜长生</title>
+    <title>pyttsx3 on 月下影成双</title>
     <link>https://gitaeron.github.io/tags/pyttsx3/</link>
-    <description>Recent content in pyttsx3 on 澜长生</description>
+    <description>Recent content in pyttsx3 on 月下影成双</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/pyttsx3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pyttsx3 setProperty IndexError</title>

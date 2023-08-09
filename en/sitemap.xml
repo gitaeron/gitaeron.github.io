@@ -368,26 +368,29 @@
                 href="https://gitaeron.github.io/en/page/tags/"
                 />
   </url><url>
+    <loc>https://gitaeron.github.io/en/quote/letter/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gitaeron.github.io/quote/letter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gitaeron.github.io/en/quote/letter/"
+                />
+  </url><url>
     <loc>https://gitaeron.github.io/en/tags/education/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/en/author/hu-shi/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
   </url><url>
-    <loc>https://gitaeron.github.io/en/quote/hushi-letter/</loc>
+    <loc>https://gitaeron.github.io/en/categories/journey-of-life/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gitaeron.github.io/quote/hushi-letter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gitaeron.github.io/en/quote/hushi-letter/"
-                />
   </url><url>
-    <loc>https://gitaeron.github.io/en/categories/life/</loc>
+    <loc>https://gitaeron.github.io/en/tags/life/</loc>
     <lastmod>2022-11-20T23:58:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/en/quote/</loc>
@@ -402,6 +405,9 @@
                 hreflang="en"
                 href="https://gitaeron.github.io/en/quote/"
                 />
+  </url><url>
+    <loc>https://gitaeron.github.io/en/tags/realization/</loc>
+    <lastmod>2022-11-20T23:58:00+08:00</lastmod>
   </url><url>
     <loc>https://gitaeron.github.io/en/link/example-google/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>

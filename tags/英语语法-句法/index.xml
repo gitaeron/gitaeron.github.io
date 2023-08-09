@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>英语语法 - 句法 on 澜长生</title>
+    <title>英语语法 - 句法 on 月下影成双</title>
     <link>https://gitaeron.github.io/tags/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95-%E5%8F%A5%E6%B3%95/</link>
-    <description>Recent content in 英语语法 - 句法 on 澜长生</description>
+    <description>Recent content in 英语语法 - 句法 on 月下影成双</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
     <lastBuildDate>Wed, 07 Dec 2022 18:40:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95-%E5%8F%A5%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基础语法 -- 并列句</title>
-      <link>https://gitaeron.github.io/article/2022/december/%E5%B9%B6%E5%88%97%E5%8F%A5/</link>
+      <link>https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/</link>
       <pubDate>Wed, 07 Dec 2022 18:40:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/2022/december/%E5%B9%B6%E5%88%97%E5%8F%A5/</guid>
+      <guid>https://gitaeron.github.io/article/2022/december/english-grammar-compound-sentence.md/</guid>
       <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#并列句&#34;&gt;并列句&lt;/a&gt;&lt;/li&gt;
@@ -24,10 +23,10 @@
     
     <item>
       <title>基础语法 -- 简单句</title>
-      <link>https://gitaeron.github.io/article/2022/december/%E7%AE%80%E5%8D%95%E5%8F%A5/</link>
+      <link>https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/</link>
       <pubDate>Mon, 05 Dec 2022 00:09:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/article/2022/december/%E7%AE%80%E5%8D%95%E5%8F%A5/</guid>
+      <guid>https://gitaeron.github.io/article/2022/december/english-grammar-simple-sentence/</guid>
       <description>&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#一-简单句&#34;&gt;一 简单句&lt;/a&gt;&lt;/li&gt;

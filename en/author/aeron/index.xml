@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aeron on Aeron&#39;s Tiny Blog.</title>
+    <title>Aeron on Aeron Atlantis</title>
     <link>https://gitaeron.github.io/en/author/aeron/</link>
-    <description>Recent content in Aeron on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in Aeron on Aeron Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Tue, 18 Apr 2023 21:55:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/author/aeron/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pyttsx3 setProperty IndexError</title>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>translate by chatgpt-3.5 on 澜长生</title>
+    <title>translate by chatgpt-3.5 on 月下影成双</title>
     <link>https://gitaeron.github.io/tags/translate-by-chatgpt-3.5/</link>
-    <description>Recent content in translate by chatgpt-3.5 on 澜长生</description>
+    <description>Recent content in translate by chatgpt-3.5 on 月下影成双</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
     <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/tags/translate-by-chatgpt-3.5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Bilberry Theme</title>
@@ -14,16 +13,6 @@
       
       <guid>https://gitaeron.github.io/article/2023/may/installing-bilberry-theme/</guid>
       <description>&lt;p&gt;您将在 &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;官方Github存储库&lt;/a&gt; 中找到所有有关如何在您的Hugo网站中设置此主题的信息.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>爱德华 斯诺登(Edward Snowden) 关于隐私</title>
-      <link>https://gitaeron.github.io/quote/edward-snowden-privacy/</link>
-      <pubDate>Mon, 01 Nov 2021 13:01:14 +0800</pubDate>
-      
-      <guid>https://gitaeron.github.io/quote/edward-snowden-privacy/</guid>
-      <description>认为你不在乎隐私权，因为你没有什么可隐瞒的，这跟说你不在乎自由言论，因为你没有什么可说的是一样的。
-Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.</description>
     </item>
     
   </channel>

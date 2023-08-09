@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Aeron&#39;s Tiny Blog.</title>
+    <title>Categories on Aeron Atlantis</title>
     <link>https://gitaeron.github.io/en/categories/</link>
-    <description>Recent content in Categories on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in Categories on Aeron Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
@@ -53,11 +52,11 @@
     </item>
     
     <item>
-      <title>Life</title>
-      <link>https://gitaeron.github.io/en/categories/life/</link>
+      <title>Journey of life</title>
+      <link>https://gitaeron.github.io/en/categories/journey-of-life/</link>
       <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
       
-      <guid>https://gitaeron.github.io/en/categories/life/</guid>
+      <guid>https://gitaeron.github.io/en/categories/journey-of-life/</guid>
       <description></description>
     </item>
     

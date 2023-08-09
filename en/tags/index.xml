@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Aeron&#39;s Tiny Blog.</title>
+    <title>Tags on Aeron Atlantis</title>
     <link>https://gitaeron.github.io/en/tags/</link>
-    <description>Recent content in Tags on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in Tags on Aeron Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 15:32:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bilberry Theme</title>
@@ -58,6 +57,24 @@
       <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
       
       <guid>https://gitaeron.github.io/en/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://gitaeron.github.io/en/tags/life/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization</title>
+      <link>https://gitaeron.github.io/en/tags/realization/</link>
+      <pubDate>Sun, 20 Nov 2022 23:58:00 +0800</pubDate>
+      
+      <guid>https://gitaeron.github.io/en/tags/realization/</guid>
       <description></description>
     </item>
     

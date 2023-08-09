@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on Aeron&#39;s Tiny Blog.</title>
+    <title>tech on Aeron Atlantis</title>
     <link>https://gitaeron.github.io/en/categories/tech/</link>
-    <description>Recent content in tech on Aeron&#39;s Tiny Blog.</description>
+    <description>Recent content in tech on Aeron Atlantis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Sun, 27 Nov 2022 16:44:00 +0800</lastBuildDate><atom:link href="https://gitaeron.github.io/en/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Previews problem while running hugo server</title>
